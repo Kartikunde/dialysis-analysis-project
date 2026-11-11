@@ -72,17 +72,6 @@ dialysis-analysis-project/
 
 The discount for a record is `billed - paid`, and the discount rate is `(billed - paid) / billed`.
 
-## Using your own data
-
-1. Replace `data/patients.csv` with a file that has the same columns.
-2. If your category names differ (diseases, facilities, payment modes), update the lists at the top of `datagen.py` and the constants at the top of the script in `static/index.html`.
-3. To stop the simulated live feed and show only your data, remove the line that starts the `producer` thread in `server.py`. To feed live data from a real source, have your system append rows to the CSV and push them to connected clients in the same way `producer` does.
-
-## Notes
-
-- Records added by the live feed are appended to `data/patients.csv`, so the file grows each time the server runs. Add `data/patients.csv` to `.gitignore` if you do not want to commit those rows, and run `python datagen.py` to reset it.
-- The dashboard is built for demonstration and learning. It has no authentication and should not be exposed publicly with real patient data.
-
 ## Analysis covered
 
 1. Patient and disease distribution by age and gender
