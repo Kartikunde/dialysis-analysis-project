@@ -44,13 +44,6 @@ dialysis-analysis-project/
 └── README.md
 ```
 
-
-### Rebuild the dataset
-
-```bash
-python datagen.py     # recreates data/patients.csv with 1,400 records (seed 42)
-```
-
 ## API
 
 | Endpoint | Description |
