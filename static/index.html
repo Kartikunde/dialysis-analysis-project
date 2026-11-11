@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Analysis of Patient Data: Dialysis Care</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+:root{--bg:#f5f7fa;--card:#fff;--tx:#17202a;--mu:#5d6b7a;--bd:#dfe5ec;--ac:#0e7c86;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#10161c;--card:#1a232c;--tx:#e8eef4;--mu:#9aa9b8;--bd:#2c3945;--ac:#3cc4cf;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#10161c;--card:#1a232c;--tx:#e8eef4;--mu:#9aa9b8;--bd:#2c3945;--ac:#3cc4cf;color-scheme:dark}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--tx);font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;line-height:1.45}
+.wrap{max-width:1200px;margin:0 auto;padding:16px}
+h1{font-size:1.5rem;margin:.2rem 0}h2{font-size:1rem;margin:0 0 8px}
+.sub{color:var(--mu);margin:0 0 14px;font-size:.9rem}
+.bar{display:flex;flex-wrap:wrap;gap:10px;align-items:end;background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:12px;margin-bottom:14px}
+.bar label{font-size:.75rem;color:var(--mu);display:flex;flex-direction:column;gap:3px}
+select,button{font:inherit;padding:7px 10px;border-radius:8px;border:1px solid var(--bd);background:var(--bg);color:var(--tx)}
+button{cursor:pointer;background:var(--ac);color:#fff;border-color:var(--ac)}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:10px;margin-bottom:14px}
+.kpi,.card{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:12px}
+.kpi b{display:block;font-size:1.4rem}.kpi span{font-size:.75rem;color:var(--mu)}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(340px,1fr));gap:14px;margin-bottom:14px}
+.ch{position:relative;height:260px}
+.ins li{margin:6px 0}
+.sc{overflow-x:auto}
+table{border-collapse:collapse;width:100%;font-size:.85rem}
+th,td{text-align:left;padding:7px 8px;border-bottom:1px solid var(--bd);white-space:nowrap}
+th{color:var(--mu);font-weight:600}
+.u{display:inline-block;height:8px;border-radius:4px;background:var(--ac);vertical-align:middle;margin-right:6px}
+</style>
+</head>
+<body>
+<div class="wrap">
+<h1>Analysis of Patient Data: Dialysis Care</h1>
+<div id="live" class="sub">Connecting…</div>
+<p class="sub">Healthcare domain · 12 months of dialysis billing records across chains, facilities and stations (amounts in ₹)</p>
+
+<div class="bar">
+<label>Chain<select id="fC"></select></label>
+<label>Disease<select id="fD"></select></label>
+<label>Payment mode<select id="fP"></select></label>
+<button id="csv">Download CSV</button>
+</div>
+
+<div class="kpis" id="kpis"></div>
+
+<div class="card ins" style="margin-bottom:14px"><h2>Key insights</h2><ul id="ins"></ul></div>
+
+<div class="grid">
+<div class="card"><h2>Patients by disease</h2><div class="ch"><canvas id="c1"></canvas></div></div>
+<div class="card"><h2>Age group and gender</h2><div class="ch"><canvas id="c2"></canvas></div></div>
+<div class="card"><h2>Chain revenue: billed vs collected</h2><div class="ch"><canvas id="c3"></canvas></div></div>
+<div class="card"><h2>Payment mode share</h2><div class="ch"><canvas id="c4"></canvas></div></div>
+<div class="card"><h2>Average discount % by payment mode</h2><div class="ch"><canvas id="c5"></canvas></div></div>
+<div class="card"><h2>Monthly billed vs collected</h2><div class="ch"><canvas id="c6"></canvas></div></div>
+</div>
+
+<div class="card sc" style="margin-bottom:14px"><h2>Facility and dialysis station analysis</h2><table id="ft"></table></div>
+<div class="card sc"><h2>Latest records (live)</h2><table id="rt"></table></div>
+</div>
+
+<script>
+const DIS=["Diabetic Nephropathy","Hypertensive Nephropathy","Chronic Glomerulonephritis","Polycystic Kidney Disease","Acute Kidney Injury","Obstructive Uropathy"];
+const FAC=[["Apex Renal Care","NephroLife"],["Metro Renal Hub","CarePlus Network"],["City Care Dialysis","Unity Health"]];
+const PM=["Insurance","Government Scheme","Cash","Card","Corporate Tie-up"];
+const MON=["Dec","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov"];
+const D=[];
+// ---------- helpers ----------
+const $=id=>document.getElementById(id);
+const inr=n=>"₹"+Math.round(n).toLocaleString("en-IN");
+const sum=(a,k)=>a.reduce((s,r)=>s+r[k],0);
+function grp(a,k){const m={};a.forEach(r=>(m[r[k]]=m[r[k]]||[]).push(r));return m}
+const PAL=["#0e7c86","#e07a2f","#6a5acd","#d1495b","#3d9a4a","#c9a227","#4a90c2"];
+function fill(id,list,all){$(id).innerHTML=[all].concat(list).map(v=>"<option>"+v+"</option>").join("")}
+fill("fC",[...new Set(FAC.map(f=>f[1]))],"All chains");fill("fD",DIS,"All diseases");fill("fP",PM,"All payment modes");
+["fC","fD","fP"].forEach(i=>$(i).onchange=render);
+const charts={};
+function draw(id,cfg){
+ const cs=getComputedStyle(document.documentElement),tx=cs.getPropertyValue("--mu").trim()||"#666",gd=cs.getPropertyValue("--bd").trim()||"#ddd";
+ Chart.defaults.color=tx;Chart.defaults.animation=false;
+ cfg.options=Object.assign({responsive:true,maintainAspectRatio:false},cfg.options||{});
+ if(cfg.type!=="doughnut"){cfg.options.scales=cfg.options.scales||{};["x","y"].forEach(a=>{cfg.options.scales[a]=Object.assign({grid:{color:gd}},cfg.options.scales[a]||{})})}
+ if(charts[id])charts[id].destroy();
+ charts[id]=new Chart($(id),cfg);
+}
+// ---------- render ----------
+function render(){
+ const c=$("fC").value,d=$("fD").value,p=$("fP").value;
+ const A=D.filter(r=>(c.startsWith("All")||r.chain===c)&&(d.startsWith("All")||r.dis===d)&&(p.startsWith("All")||r.pm===p));
+ if(!A.length){$("kpis").innerHTML="<div class='kpi'><b>No data</b><span>Change the filters</span></div>";return}
+ const b=sum(A,"billed"),pd=sum(A,"paid"),disc=b-pd;
+ $("kpis").innerHTML=[["Patients",A.length.toLocaleString("en-IN")],["Total sessions",sum(A,"sess").toLocaleString("en-IN")],["Billed",inr(b)],["Collected",inr(pd)],["Discount given",inr(disc)],["Discount rate",(disc/b*100).toFixed(1)+"%"]]
+ .map(k=>"<div class='kpi'><b>"+k[1]+"</b><span>"+k[0]+"</span></div>").join("");
+
+ const byD=grp(A,"dis"),dl=Object.keys(byD).sort((x,y)=>byD[y].length-byD[x].length);
+ draw("c1",{type:"bar",data:{labels:dl,datasets:[{data:dl.map(k=>byD[k].length),backgroundColor:PAL[0]}]},options:{indexAxis:"y",plugins:{legend:{display:false}}}});
+
+ const AG=["18-29","30-44","45-59","60-74","75+"];
+ draw("c2",{type:"bar",data:{labels:AG,datasets:["Male","Female"].map((g,i)=>({label:g,backgroundColor:PAL[i*1+0===0?0:1],data:AG.map(a=>A.filter(r=>r.ag===a&&r.g===g).length)}))},options:{scales:{x:{stacked:true},y:{stacked:true}}}});
+
+ const byC=grp(A,"chain"),cl=Object.keys(byC);
+ draw("c3",{type:"bar",data:{labels:cl,datasets:[{label:"Billed",backgroundColor:PAL[0],data:cl.map(k=>sum(byC[k],"billed"))},{label:"Collected",backgroundColor:PAL[1],data:cl.map(k=>sum(byC[k],"paid"))}]}});
+
+ const byP=grp(A,"pm"),pl=Object.keys(byP);
+ draw("c4",{type:"doughnut",data:{labels:pl,datasets:[{data:pl.map(k=>byP[k].length),backgroundColor:PAL}]},options:{plugins:{legend:{position:"right"}}}});
+ const dr=pl.map(k=>(1-sum(byP[k],"paid")/sum(byP[k],"billed"))*100);
+ draw("c5",{type:"bar",data:{labels:pl,datasets:[{data:dr.map(v=>+v.toFixed(1)),backgroundColor:PAL[3]}]},options:{plugins:{legend:{display:false}}}});
+
+ const mb=MON.map((_,i)=>sum(A.filter(r=>r.mo===i),"billed")),mp=MON.map((_,i)=>sum(A.filter(r=>r.mo===i),"paid"));
+ draw("c6",{type:"line",data:{labels:MON,datasets:[{label:"Billed",data:mb,borderColor:PAL[0],tension:.3},{label:"Collected",data:mp,borderColor:PAL[1],tension:.3}]}});
+
+ // facility table
+ const byF=grp(A,"fac"),fk=Object.keys(byF).sort((x,y)=>byF[y].length-byF[x].length);
+ const rows=fk.map(k=>{const r=byF[k],st=r[0].stations,sp=sum(r,"sess")/st;return{k,ch:r[0].chain,n:r.length,st,sp,b:sum(r,"billed"),p:sum(r,"paid")}});
+ const mx=Math.max(...rows.map(r=>r.sp));
+ $("ft").innerHTML="<tr><th>Facility</th><th>Chain</th><th>Patients</th><th>Stations</th><th>Sessions per station</th><th>Billed</th><th>Collected</th><th>Discount %</th></tr>"+
+ rows.map(r=>"<tr><td>"+r.k+"</td><td>"+r.ch+"</td><td>"+r.n+"</td><td>"+r.st+"</td><td><span class='u' style='width:"+(r.sp/mx*90)+"px'></span>"+Math.round(r.sp)+"</td><td>"+inr(r.b)+"</td><td>"+inr(r.p)+"</td><td>"+((1-r.p/r.b)*100).toFixed(1)+"%</td></tr>").join("");
+
+ // station extremes
+ const bs=grp(A,"fac"),st=[];
+ Object.keys(bs).forEach(f=>{const g=grp(bs[f],"st");Object.keys(g).forEach(s=>st.push({n:f+" / "+s,v:sum(g[s],"sess")}))});
+ st.sort((x,y)=>y.v-x.v);
+
+ // insights
+ const topD=dl[0],hiP=pl[dr.indexOf(Math.max(...dr))],loP=pl[dr.indexOf(Math.min(...dr))];
+ const hiF=rows.slice().sort((x,y)=>(1-y.p/y.b)-(1-x.p/x.b))[0],busy=rows.slice().sort((x,y)=>y.sp-x.sp)[0],idle=rows.slice().sort((x,y)=>x.sp-y.sp)[0];
+ const zero=A.filter(r=>r.billed===r.paid).length;
+ $("ins").innerHTML=[
+ "<b>"+topD+"</b> is the most common condition, covering "+(byD[topD].length/A.length*100).toFixed(0)+"% of patients in this view.",
+ "<b>"+hiP+"</b> carries the deepest discounts ("+Math.max(...dr).toFixed(1)+"%), while <b>"+loP+"</b> is the lowest ("+Math.min(...dr).toFixed(1)+"%).",
+ "Discounts reduced revenue by <b>"+inr(disc)+"</b>, and "+(zero/A.length*100).toFixed(0)+"% of records were paid in full.",
+ "<b>"+busy.k+"</b> runs the busiest stations ("+Math.round(busy.sp)+" sessions each) and <b>"+idle.k+"</b> the quietest ("+Math.round(idle.sp)+"): consider shifting patients or shifts to balance load.",
+ "<b>"+hiF.k+"</b> shows the highest facility discount rate ("+((1-hiF.p/hiF.b)*100).toFixed(1)+"%), so its discount approvals deserve a review.",
+ "Busiest single station: <b>"+st[0].n+"</b> with "+st[0].v+" sessions."
+ ].map(t=>"<li>"+t+"</li>").join("");
+
+ // sample records
+ $("rt").innerHTML="<tr><th>ID</th><th>Age</th><th>Gender</th><th>Disease</th><th>Facility</th><th>Chain</th><th>Station</th><th>Payment</th><th>Billed</th><th>Paid</th></tr>"+
+ A.slice(-12).reverse().map(r=>"<tr><td>"+r.id+"</td><td>"+r.age+"</td><td>"+r.g+"</td><td>"+r.dis+"</td><td>"+r.fac+"</td><td>"+r.chain+"</td><td>"+r.st+"</td><td>"+r.pm+"</td><td>"+inr(r.billed)+"</td><td>"+inr(r.paid)+"</td></tr>").join("");
+ window._A=A;
+}
+$("csv").onclick=()=>{
+ try{const A=window._A||D,k=["id","age","g","dis","fac","chain","st","pm","sess","billed","paid"];
+ const t=k.join(",")+"\n"+A.map(r=>k.map(x=>'"'+r[x]+'"').join(",")).join("\n");
+ const a=document.createElement("a");a.href=URL.createObjectURL(new Blob([t],{type:"text/csv"}));a.download="patient_data.csv";a.click()}catch(e){}
+};
+window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change",render);
+let dirty=false;
+fetch("/api/data").then(r=>r.json()).then(j=>{D.push(...j);render();$("live").textContent="● Live: "+D.length+" records";start()}).catch(()=>{$("live").textContent="Server not reachable. Start it with: python server.py"});
+function start(){const es=new EventSource("/stream");es.onmessage=e=>{D.push(JSON.parse(e.data));dirty=true};es.onerror=()=>{$("live").textContent="Reconnecting…"};
+setInterval(()=>{if(dirty){dirty=false;render();$("live").textContent="● Live: "+D.length+" records · updated "+new Date().toLocaleTimeString()}},2000)}
+</script>
+</body>
+</html>

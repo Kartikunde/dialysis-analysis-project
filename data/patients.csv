@@ -1,0 +1,1507 @@
+id,age,ag,g,dis,fac,chain,st,pm,mo,sess,billed,paid,stations
+P1001,62,60-74,Male,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S4,Insurance,0,15,38713,38713,6
+P1002,48,45-59,Male,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S3,Cash,5,15,53940,51805,10
+P1003,34,30-44,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S6,Government Scheme,5,11,26633,16784,9
+P1004,33,30-44,Male,Chronic Glomerulonephritis,Green Valley Dialysis,CarePlus Network,S3,Insurance,3,8,20726,18791,6
+P1005,51,45-59,Female,Chronic Glomerulonephritis,Sunrise Nephrology,CarePlus Network,S2,Cash,5,8,24374,23248,8
+P1006,33,30-44,Female,Polycystic Kidney Disease,City Care Dialysis,Unity Health,S3,Insurance,10,8,22715,22715,7
+P1007,55,45-59,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S1,Insurance,0,15,49493,41261,10
+P1008,63,60-74,Female,Diabetic Nephropathy,City Care Dialysis,Unity Health,S5,Insurance,1,12,30510,27759,7
+P1009,49,45-59,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S2,Insurance,1,11,37569,37569,8
+P1010,59,45-59,Male,Diabetic Nephropathy,City Care Dialysis,Unity Health,S1,Cash,5,11,30103,30103,7
+P1011,69,60-74,Female,Polycystic Kidney Disease,City Care Dialysis,Unity Health,S1,Government Scheme,7,7,17876,15230,7
+P1012,86,75+,Female,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S2,Government Scheme,8,14,34533,23642,5
+P1013,49,45-59,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S4,Insurance,8,6,21324,21324,10
+P1014,62,60-74,Male,Chronic Glomerulonephritis,Lotus Dialysis Centre,NephroLife,S4,Insurance,6,11,28938,28938,7
+P1015,54,45-59,Male,Acute Kidney Injury,Metro Renal Hub,CarePlus Network,S2,Insurance,2,13,47196,47196,10
+P1016,68,60-74,Female,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S6,Corporate Tie-up,2,7,19317,15188,7
+P1017,46,45-59,Female,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S8,Card,8,10,37344,37344,10
+P1018,44,30-44,Female,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S5,Insurance,0,7,20546,19190,8
+P1019,58,45-59,Female,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S3,Insurance,9,7,18073,16455,5
+P1020,51,45-59,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S1,Insurance,9,7,24518,19740,10
+P1021,56,45-59,Female,Obstructive Uropathy,Riverside Renal Unit,Unity Health,S4,Insurance,9,15,38634,38634,5
+P1022,76,75+,Female,Polycystic Kidney Disease,Riverside Renal Unit,Unity Health,S1,Government Scheme,4,7,18024,14442,5
+P1023,55,45-59,Male,Chronic Glomerulonephritis,Green Valley Dialysis,CarePlus Network,S1,Insurance,2,15,46684,43366,6
+P1024,44,30-44,Female,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S4,Card,2,7,21967,20733,6
+P1025,70,60-74,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S9,Government Scheme,9,10,35327,24609,10
+P1026,48,45-59,Male,Acute Kidney Injury,Sunrise Nephrology,CarePlus Network,S6,Insurance,11,10,28345,23500,8
+P1027,67,60-74,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S2,Card,0,8,26500,26500,8
+P1028,49,45-59,Male,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S6,Insurance,4,11,32952,32952,6
+P1029,52,45-59,Male,Obstructive Uropathy,Lotus Dialysis Centre,NephroLife,S2,Insurance,11,9,22714,19957,7
+P1030,82,75+,Female,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S7,Card,1,8,26607,25065,10
+P1031,47,45-59,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S5,Government Scheme,4,7,21107,13203,8
+P1032,61,60-74,Female,Polycystic Kidney Disease,Metro Renal Hub,CarePlus Network,S10,Government Scheme,11,9,30010,20837,10
+P1033,66,60-74,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S3,Government Scheme,7,14,38882,31556,9
+P1034,77,75+,Female,Polycystic Kidney Disease,Green Valley Dialysis,CarePlus Network,S6,Government Scheme,1,10,27998,23284,6
+P1035,64,60-74,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S5,Card,5,15,41865,40804,8
+P1036,74,60-74,Male,Acute Kidney Injury,Riverside Renal Unit,Unity Health,S2,Cash,10,11,28445,26322,5
+P1037,55,45-59,Male,Polycystic Kidney Disease,Lotus Dialysis Centre,NephroLife,S3,Government Scheme,2,8,18892,12050,7
+P1038,49,45-59,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S7,Government Scheme,6,10,33786,24263,8
+P1039,75,75+,Male,Obstructive Uropathy,Metro Renal Hub,CarePlus Network,S3,Insurance,7,11,39337,30054,10
+P1040,45,45-59,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S1,Cash,10,7,19211,18604,9
+P1041,45,45-59,Male,Acute Kidney Injury,Metro Renal Hub,CarePlus Network,S9,Insurance,7,9,33261,27494,10
+P1042,66,60-74,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S2,Corporate Tie-up,2,13,36793,36793,9
+P1043,47,45-59,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S4,Corporate Tie-up,9,12,45181,36374,10
+P1044,74,60-74,Female,Diabetic Nephropathy,Apex Renal Care,NephroLife,S8,Cash,9,7,19522,19522,9
+P1045,51,45-59,Male,Polycystic Kidney Disease,Sunrise Nephrology,CarePlus Network,S4,Government Scheme,5,7,22300,19328,8
+P1046,76,75+,Male,Polycystic Kidney Disease,Green Valley Dialysis,CarePlus Network,S5,Cash,4,9,27772,26042,6
+P1047,57,45-59,Male,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S3,Corporate Tie-up,5,12,28170,24400,6
+P1048,44,30-44,Female,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S6,Corporate Tie-up,10,15,41463,33369,8
+P1049,42,30-44,Female,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S5,Insurance,5,13,38698,38698,8
+P1050,28,18-29,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S6,Insurance,8,11,35988,35988,8
+P1051,43,30-44,Male,Obstructive Uropathy,Green Valley Dialysis,CarePlus Network,S6,Card,10,13,33912,33912,6
+P1052,58,45-59,Female,Hypertensive Nephropathy,City Care Dialysis,Unity Health,S3,Card,1,8,18257,17205,7
+P1053,68,60-74,Female,Chronic Glomerulonephritis,Green Valley Dialysis,CarePlus Network,S5,Insurance,6,8,23285,20725,6
+P1054,70,60-74,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S7,Card,2,12,42967,42967,10
+P1055,60,60-74,Male,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S2,Insurance,4,6,13997,12682,7
+P1056,69,60-74,Male,Chronic Glomerulonephritis,Sunrise Nephrology,CarePlus Network,S3,Cash,11,12,40576,40576,8
+P1057,49,45-59,Female,Acute Kidney Injury,City Care Dialysis,Unity Health,S6,Government Scheme,9,9,23287,17609,7
+P1058,82,75+,Female,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S4,Corporate Tie-up,10,16,41014,41014,7
+P1059,78,75+,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S5,Corporate Tie-up,7,11,36376,36376,10
+P1060,53,45-59,Female,Obstructive Uropathy,Sai Kidney Institute,NephroLife,S4,Card,8,9,22622,21804,6
+P1061,60,60-74,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S5,Government Scheme,0,7,22332,18668,10
+P1062,51,45-59,Male,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S5,Insurance,7,7,18484,15350,5
+P1063,54,45-59,Female,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S1,Cash,1,11,23685,22704,5
+P1064,79,75+,Male,Polycystic Kidney Disease,Lotus Dialysis Centre,NephroLife,S2,Government Scheme,8,9,21052,15103,7
+P1065,77,75+,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S4,Card,7,16,50672,48882,10
+P1066,85,75+,Female,Polycystic Kidney Disease,Sunrise Nephrology,CarePlus Network,S7,Government Scheme,7,11,30005,22186,8
+P1067,72,60-74,Male,Acute Kidney Injury,Apex Renal Care,NephroLife,S1,Insurance,5,7,19936,18106,9
+P1068,66,60-74,Female,Acute Kidney Injury,City Care Dialysis,Unity Health,S7,Government Scheme,11,15,34087,29049,7
+P1069,43,30-44,Male,Obstructive Uropathy,Apex Renal Care,NephroLife,S4,Card,3,9,21229,21229,9
+P1070,47,45-59,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S3,Card,4,12,38024,38024,10
+P1071,41,30-44,Female,Acute Kidney Injury,Sunrise Nephrology,CarePlus Network,S4,Government Scheme,4,15,51611,40887,8
+P1072,55,45-59,Male,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S4,Government Scheme,10,16,37394,23025,7
+P1073,85,75+,Male,Obstructive Uropathy,Sunrise Nephrology,CarePlus Network,S3,Corporate Tie-up,11,14,40216,40216,8
+P1074,37,30-44,Female,Chronic Glomerulonephritis,Sunrise Nephrology,CarePlus Network,S3,Insurance,6,14,38150,38150,8
+P1075,84,75+,Female,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S6,Government Scheme,5,14,32399,21240,7
+P1076,62,60-74,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S4,Insurance,4,13,38975,32681,8
+P1077,74,60-74,Female,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S6,Cash,9,15,45891,45891,10
+P1078,61,60-74,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S7,Card,2,7,19094,18480,7
+P1079,67,60-74,Female,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S10,Corporate Tie-up,4,13,48106,39217,10
+P1080,69,60-74,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S2,Government Scheme,1,13,35021,21565,9
+P1081,67,60-74,Male,Polycystic Kidney Disease,Riverside Renal Unit,Unity Health,S5,Insurance,8,7,15832,13003,5
+P1082,55,45-59,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S2,Card,10,6,16050,16050,7
+P1083,55,45-59,Male,Diabetic Nephropathy,City Care Dialysis,Unity Health,S4,Government Scheme,5,9,20963,15943,7
+P1084,66,60-74,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S5,Government Scheme,6,15,51003,38299,10
+P1085,63,60-74,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S4,Cash,9,7,21519,20067,10
+P1086,62,60-74,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S3,Cash,5,13,46857,46857,10
+P1087,41,30-44,Male,Hypertensive Nephropathy,City Care Dialysis,Unity Health,S4,Cash,11,16,42868,42868,7
+P1088,57,45-59,Female,Polycystic Kidney Disease,Sunrise Nephrology,CarePlus Network,S6,Government Scheme,4,7,20756,14467,8
+P1089,47,45-59,Male,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S5,Government Scheme,8,7,21782,16869,6
+P1090,61,60-74,Male,Polycystic Kidney Disease,Riverside Renal Unit,Unity Health,S2,Cash,0,14,31133,29862,5
+P1091,66,60-74,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S3,Cash,5,7,17348,16436,7
+P1092,39,30-44,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S3,Insurance,8,13,37753,32489,8
+P1093,67,60-74,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S2,Insurance,2,6,15582,15582,9
+P1094,46,45-59,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S4,Insurance,11,11,31598,27584,8
+P1095,72,60-74,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S8,Corporate Tie-up,9,13,33950,33950,9
+P1096,43,30-44,Male,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S8,Government Scheme,1,10,30349,19535,10
+P1097,72,60-74,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S7,Government Scheme,10,14,50994,41232,10
+P1098,61,60-74,Male,Obstructive Uropathy,Apex Renal Care,NephroLife,S9,Cash,5,13,37873,35276,9
+P1099,34,30-44,Female,Diabetic Nephropathy,Apex Renal Care,NephroLife,S1,Government Scheme,1,11,27959,21039,9
+P1100,79,75+,Male,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S1,Government Scheme,0,10,30869,21624,6
+P1101,64,60-74,Female,Polycystic Kidney Disease,Metro Renal Hub,CarePlus Network,S4,Card,4,6,21323,20051,10
+P1102,45,45-59,Female,Polycystic Kidney Disease,Metro Renal Hub,CarePlus Network,S10,Cash,9,9,30873,30873,10
+P1103,57,45-59,Male,Diabetic Nephropathy,City Care Dialysis,Unity Health,S3,Cash,5,13,32435,30304,7
+P1104,71,60-74,Male,Chronic Glomerulonephritis,City Care Dialysis,Unity Health,S2,Card,7,12,30176,29136,7
+P1105,61,60-74,Female,Obstructive Uropathy,Lotus Dialysis Centre,NephroLife,S5,Insurance,9,11,28635,25108,7
+P1106,65,60-74,Male,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S2,Card,11,10,22060,22060,6
+P1107,88,75+,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S7,Insurance,8,8,25670,22373,8
+P1108,49,45-59,Female,Obstructive Uropathy,Metro Renal Hub,CarePlus Network,S9,Card,4,12,44294,44294,10
+P1109,56,45-59,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S4,Government Scheme,5,15,43063,27560,9
+P1110,66,60-74,Female,Obstructive Uropathy,Lotus Dialysis Centre,NephroLife,S5,Government Scheme,2,12,31618,26376,7
+P1111,48,45-59,Female,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S2,Cash,1,7,23836,22250,8
+P1112,57,45-59,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S4,Card,9,12,28208,28208,9
+P1113,59,45-59,Male,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S6,Insurance,0,16,36468,30838,6
+P1114,48,45-59,Male,Obstructive Uropathy,Green Valley Dialysis,CarePlus Network,S1,Insurance,8,13,38477,32606,6
+P1115,76,75+,Male,Chronic Glomerulonephritis,Sai Kidney Institute,NephroLife,S2,Card,3,8,16433,15634,6
+P1116,63,60-74,Male,Diabetic Nephropathy,City Care Dialysis,Unity Health,S5,Government Scheme,4,6,15926,12671,7
+P1117,73,60-74,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S8,Corporate Tie-up,11,16,42601,35802,9
+P1118,32,30-44,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S5,Corporate Tie-up,7,9,28925,24547,10
+P1119,79,75+,Female,Acute Kidney Injury,Apex Renal Care,NephroLife,S7,Government Scheme,0,15,35832,25235,9
+P1120,41,30-44,Female,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S9,Card,5,10,25889,24784,9
+P1121,43,30-44,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S2,Insurance,4,16,47862,40093,10
+P1122,69,60-74,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S7,Cash,5,7,19289,18511,8
+P1123,37,30-44,Male,Chronic Glomerulonephritis,Sunrise Nephrology,CarePlus Network,S8,Government Scheme,2,13,41927,34579,8
+P1124,73,60-74,Female,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S4,Government Scheme,6,7,18834,16064,7
+P1125,74,60-74,Female,Polycystic Kidney Disease,Sunrise Nephrology,CarePlus Network,S2,Insurance,2,13,38459,32100,8
+P1126,28,18-29,Female,Acute Kidney Injury,Metro Renal Hub,CarePlus Network,S9,Insurance,4,9,31997,26189,10
+P1127,53,45-59,Female,Obstructive Uropathy,Lotus Dialysis Centre,NephroLife,S7,Insurance,5,12,30181,30181,7
+P1128,36,30-44,Female,Hypertensive Nephropathy,City Care Dialysis,Unity Health,S4,Card,10,12,31883,30267,7
+P1129,57,45-59,Male,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S4,Government Scheme,2,11,38919,32260,10
+P1130,71,60-74,Male,Chronic Glomerulonephritis,Sai Kidney Institute,NephroLife,S2,Cash,1,10,22889,21764,6
+P1131,80,75+,Male,Obstructive Uropathy,Apex Renal Care,NephroLife,S9,Card,7,14,41257,41257,9
+P1132,84,75+,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S7,Insurance,7,8,26089,22278,10
+P1133,37,30-44,Male,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S2,Insurance,6,10,20049,18723,6
+P1134,66,60-74,Female,Polycystic Kidney Disease,Metro Renal Hub,CarePlus Network,S8,Insurance,3,16,52720,52720,10
+P1135,60,60-74,Female,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S2,Insurance,6,11,28867,28867,6
+P1136,64,60-74,Female,Chronic Glomerulonephritis,Riverside Renal Unit,Unity Health,S5,Insurance,9,13,29151,24548,5
+P1137,58,45-59,Male,Acute Kidney Injury,Sai Kidney Institute,NephroLife,S3,Card,8,13,32690,32690,6
+P1138,40,30-44,Male,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S5,Card,6,15,38954,38954,6
+P1139,80,75+,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S10,Government Scheme,7,11,37760,23052,10
+P1140,76,75+,Male,Hypertensive Nephropathy,City Care Dialysis,Unity Health,S2,Government Scheme,4,13,34207,28050,7
+P1141,59,45-59,Male,Chronic Glomerulonephritis,Sunrise Nephrology,CarePlus Network,S8,Cash,6,15,48619,46321,8
+P1142,52,45-59,Male,Obstructive Uropathy,City Care Dialysis,Unity Health,S4,Card,8,9,22738,22050,7
+P1143,58,45-59,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S1,Cash,2,11,34963,33804,8
+P1144,78,75+,Female,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S9,Corporate Tie-up,1,11,27166,27166,9
+P1145,67,60-74,Female,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S5,Cash,2,10,31063,31063,6
+P1146,57,45-59,Male,Obstructive Uropathy,Riverside Renal Unit,Unity Health,S3,Corporate Tie-up,2,7,18447,16131,5
+P1147,37,30-44,Male,Hypertensive Nephropathy,City Care Dialysis,Unity Health,S6,Insurance,2,9,21297,18137,7
+P1148,48,45-59,Male,Chronic Glomerulonephritis,Green Valley Dialysis,CarePlus Network,S3,Government Scheme,7,7,22450,16745,6
+P1149,55,45-59,Male,Obstructive Uropathy,Sunrise Nephrology,CarePlus Network,S5,Government Scheme,11,13,35706,29967,8
+P1150,59,45-59,Male,Chronic Glomerulonephritis,Sunrise Nephrology,CarePlus Network,S6,Cash,7,16,48938,46134,8
+P1151,73,60-74,Female,Polycystic Kidney Disease,Sunrise Nephrology,CarePlus Network,S1,Card,8,14,43318,41536,8
+P1152,57,45-59,Male,Diabetic Nephropathy,City Care Dialysis,Unity Health,S1,Government Scheme,2,13,35075,26057,7
+P1153,72,60-74,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S4,Insurance,1,10,36436,28074,10
+P1154,65,60-74,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S4,Corporate Tie-up,6,8,24654,20151,10
+P1155,70,60-74,Male,Acute Kidney Injury,Metro Renal Hub,CarePlus Network,S2,Government Scheme,3,7,25758,21615,10
+P1156,61,60-74,Male,Chronic Glomerulonephritis,City Care Dialysis,Unity Health,S7,Corporate Tie-up,1,10,23935,23935,7
+P1157,74,60-74,Female,Chronic Glomerulonephritis,Apex Renal Care,NephroLife,S3,Cash,0,7,19082,17998,9
+P1158,56,45-59,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S7,Insurance,5,9,32787,32787,10
+P1159,50,45-59,Female,Acute Kidney Injury,Lotus Dialysis Centre,NephroLife,S4,Corporate Tie-up,0,12,30180,30180,7
+P1160,59,45-59,Female,Obstructive Uropathy,Riverside Renal Unit,Unity Health,S2,Cash,11,7,16005,14800,5
+P1161,54,45-59,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S4,Insurance,8,10,25057,25057,9
+P1162,76,75+,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S7,Insurance,5,8,26170,22325,8
+P1163,63,60-74,Male,Acute Kidney Injury,Sai Kidney Institute,NephroLife,S2,Insurance,5,14,34761,29774,6
+P1164,48,45-59,Female,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S8,Government Scheme,5,11,30514,18762,8
+P1165,53,45-59,Male,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S4,Card,3,12,28512,28512,6
+P1166,73,60-74,Male,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S8,Cash,7,12,40497,38873,10
+P1167,81,75+,Male,Acute Kidney Injury,Lotus Dialysis Centre,NephroLife,S5,Corporate Tie-up,1,7,18556,18556,7
+P1168,62,60-74,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S1,Government Scheme,8,12,36749,27310,8
+P1169,62,60-74,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S5,Insurance,4,15,42517,35282,8
+P1170,54,45-59,Female,Diabetic Nephropathy,City Care Dialysis,Unity Health,S7,Government Scheme,0,16,38259,26481,7
+P1171,23,18-29,Female,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S1,Government Scheme,8,11,28842,19211,9
+P1172,59,45-59,Female,Diabetic Nephropathy,City Care Dialysis,Unity Health,S2,Corporate Tie-up,5,15,40167,35152,7
+P1173,88,75+,Female,Diabetic Nephropathy,Apex Renal Care,NephroLife,S5,Insurance,6,9,24359,21241,9
+P1174,78,75+,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S8,Corporate Tie-up,6,7,21195,21195,8
+P1175,57,45-59,Male,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S4,Cash,4,12,27430,26301,5
+P1176,58,45-59,Male,Chronic Glomerulonephritis,Sunrise Nephrology,CarePlus Network,S3,Insurance,4,13,38188,38188,8
+P1177,49,45-59,Female,Diabetic Nephropathy,Apex Renal Care,NephroLife,S1,Government Scheme,6,7,18902,13511,9
+P1178,85,75+,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S1,Corporate Tie-up,6,8,26273,26273,10
+P1179,73,60-74,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S3,Card,9,11,27830,27830,7
+P1180,69,60-74,Male,Acute Kidney Injury,Metro Renal Hub,CarePlus Network,S2,Government Scheme,6,12,38614,27538,10
+P1181,53,45-59,Male,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S3,Cash,8,10,25395,25395,5
+P1182,69,60-74,Female,Polycystic Kidney Disease,Lotus Dialysis Centre,NephroLife,S5,Insurance,2,14,37223,34681,7
+P1183,60,60-74,Female,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S5,Cash,8,16,45687,43218,6
+P1184,81,75+,Female,Obstructive Uropathy,Apex Renal Care,NephroLife,S6,Cash,10,7,17509,17509,9
+P1185,55,45-59,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S4,Card,6,9,27747,26616,8
+P1186,62,60-74,Female,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S4,Cash,5,9,33565,32385,10
+P1187,61,60-74,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S7,Government Scheme,10,9,28959,19094,10
+P1188,55,45-59,Male,Acute Kidney Injury,Sunrise Nephrology,CarePlus Network,S6,Card,6,10,30465,28884,8
+P1189,63,60-74,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S8,Insurance,2,8,22632,22632,9
+P1190,76,75+,Male,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S3,Insurance,2,9,19744,19744,6
+P1191,39,30-44,Male,Chronic Glomerulonephritis,City Care Dialysis,Unity Health,S3,Insurance,2,7,17086,15686,7
+P1192,83,75+,Female,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S4,Government Scheme,5,8,21094,16768,6
+P1193,61,60-74,Male,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S3,Insurance,3,10,23527,20110,5
+P1194,54,45-59,Female,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S5,Government Scheme,5,14,31953,26859,6
+P1195,46,45-59,Male,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S3,Card,1,13,45621,44257,10
+P1196,62,60-74,Male,Obstructive Uropathy,Metro Renal Hub,CarePlus Network,S3,Card,3,10,35564,35564,10
+P1197,65,60-74,Female,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S7,Government Scheme,2,9,28166,17530,8
+P1198,72,60-74,Female,Polycystic Kidney Disease,Riverside Renal Unit,Unity Health,S4,Corporate Tie-up,7,15,33203,26767,5
+P1199,51,45-59,Female,Chronic Glomerulonephritis,Apex Renal Care,NephroLife,S5,Cash,7,14,36426,33694,9
+P1200,70,60-74,Male,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S3,Card,3,13,28301,27663,6
+P1201,59,45-59,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S9,Insurance,0,14,51907,51907,10
+P1202,49,45-59,Female,Acute Kidney Injury,Apex Renal Care,NephroLife,S3,Government Scheme,10,13,31535,22106,9
+P1203,53,45-59,Male,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S2,Cash,1,13,31140,31140,6
+P1204,59,45-59,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S7,Cash,1,16,41832,41832,9
+P1205,74,60-74,Female,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S2,Insurance,5,12,33362,31086,9
+P1206,71,60-74,Male,Chronic Glomerulonephritis,Sunrise Nephrology,CarePlus Network,S8,Insurance,5,7,19427,16507,8
+P1207,60,60-74,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S2,Cash,9,9,30654,29685,8
+P1208,69,60-74,Male,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S10,Insurance,5,11,33693,26956,10
+P1209,61,60-74,Male,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S2,Card,0,14,36663,36663,5
+P1210,65,60-74,Male,Obstructive Uropathy,City Care Dialysis,Unity Health,S1,Government Scheme,1,10,25014,17596,7
+P1211,60,60-74,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S9,Card,0,14,49446,48326,10
+P1212,53,45-59,Male,Acute Kidney Injury,Lotus Dialysis Centre,NephroLife,S4,Insurance,5,13,29450,29450,7
+P1213,46,45-59,Female,Polycystic Kidney Disease,Metro Renal Hub,CarePlus Network,S3,Cash,1,9,33312,33312,10
+P1214,46,45-59,Female,Obstructive Uropathy,Lotus Dialysis Centre,NephroLife,S5,Cash,1,15,33902,32565,7
+P1215,60,60-74,Male,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S7,Insurance,11,10,22501,18637,7
+P1216,74,60-74,Male,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S4,Insurance,0,12,31243,31243,6
+P1217,57,45-59,Male,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S4,Government Scheme,7,12,24895,20360,5
+P1218,74,60-74,Male,Obstructive Uropathy,Sai Kidney Institute,NephroLife,S4,Corporate Tie-up,11,14,28879,28879,6
+P1219,79,75+,Male,Obstructive Uropathy,City Care Dialysis,Unity Health,S7,Insurance,11,7,18068,16468,7
+P1220,76,75+,Female,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S3,Insurance,9,11,28696,24974,7
+P1221,39,30-44,Male,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S1,Corporate Tie-up,3,14,42147,42147,6
+P1222,40,30-44,Male,Polycystic Kidney Disease,Apex Renal Care,NephroLife,S8,Insurance,1,7,18010,15265,9
+P1223,60,60-74,Male,Chronic Glomerulonephritis,Apex Renal Care,NephroLife,S7,Card,4,9,21594,20948,9
+P1224,71,60-74,Male,Diabetic Nephropathy,City Care Dialysis,Unity Health,S6,Corporate Tie-up,3,7,16196,16196,7
+P1225,68,60-74,Female,Polycystic Kidney Disease,Apex Renal Care,NephroLife,S4,Government Scheme,2,9,25815,22313,9
+P1226,47,45-59,Male,Acute Kidney Injury,Apex Renal Care,NephroLife,S4,Card,5,15,39323,37397,9
+P1227,59,45-59,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S2,Insurance,2,8,18697,16651,7
+P1228,66,60-74,Female,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S4,Card,9,6,19713,18756,10
+P1229,56,45-59,Female,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S10,Insurance,2,14,42257,31313,10
+P1230,66,60-74,Male,Chronic Glomerulonephritis,Apex Renal Care,NephroLife,S8,Insurance,2,16,39722,33304,9
+P1231,62,60-74,Male,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S7,Card,7,13,35471,33962,7
+P1232,35,30-44,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S2,Insurance,5,11,35680,28055,10
+P1233,38,30-44,Female,Diabetic Nephropathy,Apex Renal Care,NephroLife,S4,Cash,5,10,23871,22146,9
+P1234,83,75+,Female,Diabetic Nephropathy,Apex Renal Care,NephroLife,S3,Corporate Tie-up,9,8,23757,19220,9
+P1235,29,18-29,Male,Hypertensive Nephropathy,City Care Dialysis,Unity Health,S2,Cash,5,13,33904,31156,7
+P1236,62,60-74,Female,Obstructive Uropathy,City Care Dialysis,Unity Health,S1,Insurance,11,13,31184,31184,7
+P1237,42,30-44,Male,Chronic Glomerulonephritis,Sunrise Nephrology,CarePlus Network,S4,Government Scheme,2,10,32903,22463,8
+P1238,48,45-59,Male,Hypertensive Nephropathy,City Care Dialysis,Unity Health,S6,Government Scheme,4,15,39853,27552,7
+P1239,55,45-59,Female,Diabetic Nephropathy,Apex Renal Care,NephroLife,S9,Insurance,11,7,20665,20665,9
+P1240,48,45-59,Female,Obstructive Uropathy,Apex Renal Care,NephroLife,S3,Insurance,4,8,19708,16877,9
+P1241,47,45-59,Male,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S1,Government Scheme,3,6,12169,7980,6
+P1242,59,45-59,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S7,Insurance,5,11,28123,26128,7
+P1243,63,60-74,Female,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S3,Government Scheme,9,8,20623,17423,7
+P1244,77,75+,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S6,Government Scheme,0,15,37554,30371,7
+P1245,56,45-59,Female,Acute Kidney Injury,Metro Renal Hub,CarePlus Network,S2,Card,6,14,43577,40990,10
+P1246,60,60-74,Male,Chronic Glomerulonephritis,Apex Renal Care,NephroLife,S5,Insurance,4,9,25314,25314,9
+P1247,74,60-74,Female,Acute Kidney Injury,Metro Renal Hub,CarePlus Network,S2,Insurance,1,7,21654,17150,10
+P1248,52,45-59,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S2,Insurance,9,10,33706,33706,10
+P1249,61,60-74,Female,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S3,Government Scheme,7,11,31916,24676,8
+P1250,52,45-59,Male,Chronic Glomerulonephritis,City Care Dialysis,Unity Health,S4,Corporate Tie-up,6,14,34308,27563,7
+P1251,58,45-59,Female,Chronic Glomerulonephritis,Sunrise Nephrology,CarePlus Network,S1,Card,3,9,27721,27016,8
+P1252,28,18-29,Female,Diabetic Nephropathy,City Care Dialysis,Unity Health,S5,Insurance,3,8,19842,17546,7
+P1253,67,60-74,Male,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S3,Insurance,2,8,19776,16812,6
+P1254,34,30-44,Female,Polycystic Kidney Disease,City Care Dialysis,Unity Health,S4,Insurance,2,13,33420,27947,7
+P1255,54,45-59,Male,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S2,Insurance,7,16,47519,42251,6
+P1256,61,60-74,Male,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S5,Cash,7,16,39067,36579,6
+P1257,67,60-74,Female,Obstructive Uropathy,Apex Renal Care,NephroLife,S8,Cash,9,15,38013,36531,9
+P1258,39,30-44,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S9,Insurance,5,15,49557,38238,10
+P1259,82,75+,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S1,Government Scheme,2,11,36675,23891,8
+P1260,88,75+,Male,Chronic Glomerulonephritis,Sunrise Nephrology,CarePlus Network,S8,Government Scheme,5,13,37267,30258,8
+P1261,70,60-74,Female,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S3,Card,4,15,33041,31205,7
+P1262,81,75+,Male,Acute Kidney Injury,Metro Renal Hub,CarePlus Network,S1,Insurance,5,15,56760,47838,10
+P1263,45,45-59,Male,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S4,Cash,10,8,24441,22990,6
+P1264,52,45-59,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S1,Government Scheme,11,16,59294,39918,10
+P1265,47,45-59,Female,Chronic Glomerulonephritis,Lotus Dialysis Centre,NephroLife,S5,Government Scheme,5,8,21234,16827,7
+P1266,79,75+,Male,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S10,Insurance,3,8,29746,29746,10
+P1267,46,45-59,Female,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S6,Insurance,10,15,43378,43378,8
+P1268,39,30-44,Male,Diabetic Nephropathy,City Care Dialysis,Unity Health,S1,Insurance,8,13,30920,30920,7
+P1269,62,60-74,Male,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S2,Insurance,8,7,15599,15599,7
+P1270,61,60-74,Male,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S1,Government Scheme,9,13,30503,24678,5
+P1271,53,45-59,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S1,Insurance,2,9,25860,25860,8
+P1272,50,45-59,Female,Acute Kidney Injury,City Care Dialysis,Unity Health,S3,Government Scheme,7,15,42096,36518,7
+P1273,39,30-44,Male,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S3,Cash,2,10,23325,21456,5
+P1274,59,45-59,Male,Chronic Glomerulonephritis,Apex Renal Care,NephroLife,S4,Insurance,0,12,34338,34338,9
+P1275,68,60-74,Male,Acute Kidney Injury,City Care Dialysis,Unity Health,S7,Cash,8,15,37881,36601,7
+P1276,72,60-74,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S3,Government Scheme,10,11,35480,29989,8
+P1277,58,45-59,Male,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S5,Card,5,15,43108,41437,6
+P1278,52,45-59,Female,Obstructive Uropathy,Lotus Dialysis Centre,NephroLife,S4,Insurance,1,8,19484,16442,7
+P1279,44,30-44,Female,Chronic Glomerulonephritis,Riverside Renal Unit,Unity Health,S3,Insurance,10,14,35354,29147,5
+P1280,36,30-44,Female,Obstructive Uropathy,Sunrise Nephrology,CarePlus Network,S1,Government Scheme,10,12,37978,28369,8
+P1281,66,60-74,Female,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S6,Card,1,13,28437,28437,7
+P1282,69,60-74,Female,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S5,Insurance,1,8,18902,18902,7
+P1283,61,60-74,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S5,Cash,2,11,30101,27509,8
+P1284,54,45-59,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S2,Card,6,9,30249,29137,8
+P1285,51,45-59,Female,Obstructive Uropathy,Riverside Renal Unit,Unity Health,S5,Government Scheme,10,13,29144,20040,5
+P1286,65,60-74,Female,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S5,Cash,5,13,35686,34235,7
+P1287,80,75+,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S4,Corporate Tie-up,0,11,40633,40633,10
+P1288,36,30-44,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S7,Card,1,14,45051,43618,8
+P1289,51,45-59,Male,Chronic Glomerulonephritis,Green Valley Dialysis,CarePlus Network,S3,Government Scheme,6,11,33856,23327,6
+P1290,39,30-44,Female,Obstructive Uropathy,Riverside Renal Unit,Unity Health,S4,Government Scheme,10,12,30228,19460,5
+P1291,47,45-59,Female,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S1,Cash,0,10,25209,24340,6
+P1292,49,45-59,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S10,Insurance,9,13,40270,40270,10
+P1293,53,45-59,Male,Diabetic Nephropathy,City Care Dialysis,Unity Health,S4,Card,6,11,31329,30050,7
+P1294,42,30-44,Female,Diabetic Nephropathy,Apex Renal Care,NephroLife,S1,Insurance,10,14,37588,30837,9
+P1295,50,45-59,Male,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S5,Cash,0,15,32846,32846,6
+P1296,52,45-59,Male,Polycystic Kidney Disease,City Care Dialysis,Unity Health,S7,Government Scheme,8,15,35555,26182,7
+P1297,59,45-59,Female,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S5,Insurance,1,14,43954,33429,10
+P1298,29,18-29,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S4,Government Scheme,10,14,43660,31457,8
+P1299,40,30-44,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S6,Government Scheme,4,7,25098,21538,10
+P1300,61,60-74,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S7,Insurance,8,13,39721,39721,8
+P1301,88,75+,Male,Chronic Glomerulonephritis,Sai Kidney Institute,NephroLife,S1,Insurance,9,12,30079,28234,6
+P1302,71,60-74,Male,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S2,Corporate Tie-up,4,9,25280,20645,6
+P1303,88,75+,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S1,Card,11,16,38988,38988,7
+P1304,49,45-59,Female,Obstructive Uropathy,Green Valley Dialysis,CarePlus Network,S5,Government Scheme,2,7,18588,13823,6
+P1305,35,30-44,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S8,Government Scheme,7,8,28643,21672,10
+P1306,53,45-59,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S9,Government Scheme,1,14,51498,42929,10
+P1307,73,60-74,Female,Acute Kidney Injury,Sunrise Nephrology,CarePlus Network,S5,Card,10,14,40034,40034,8
+P1308,66,60-74,Female,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S7,Insurance,9,11,33911,30262,8
+P1309,52,45-59,Male,Chronic Glomerulonephritis,Sunrise Nephrology,CarePlus Network,S7,Insurance,3,15,42145,35914,8
+P1310,57,45-59,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S7,Insurance,8,11,28991,27090,9
+P1311,59,45-59,Male,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S6,Card,3,10,29314,29314,6
+P1312,60,60-74,Female,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S3,Card,2,11,33931,33931,10
+P1313,55,45-59,Female,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S4,Card,3,7,19452,18690,9
+P1314,51,45-59,Female,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S6,Insurance,0,7,17555,16122,9
+P1315,66,60-74,Male,Chronic Glomerulonephritis,City Care Dialysis,Unity Health,S5,Card,2,11,28061,27254,7
+P1316,78,75+,Male,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S6,Insurance,10,7,19493,19493,6
+P1317,48,45-59,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S7,Insurance,0,14,47393,40090,10
+P1318,42,30-44,Male,Polycystic Kidney Disease,City Care Dialysis,Unity Health,S5,Cash,11,11,26328,24271,7
+P1319,56,45-59,Male,Polycystic Kidney Disease,City Care Dialysis,Unity Health,S1,Government Scheme,11,15,34536,24674,7
+P1320,54,45-59,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S7,Insurance,6,9,26745,24644,8
+P1321,48,45-59,Female,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S6,Corporate Tie-up,11,12,37409,31070,10
+P1322,48,45-59,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S7,Card,10,15,45791,43944,10
+P1323,23,18-29,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S1,Corporate Tie-up,6,15,45398,45398,8
+P1324,53,45-59,Female,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S5,Cash,8,14,30391,30391,5
+P1325,42,30-44,Female,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S5,Cash,5,6,12670,12670,6
+P1326,62,60-74,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S7,Insurance,3,11,35691,31155,8
+P1327,51,45-59,Female,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S6,Corporate Tie-up,8,7,17995,15708,6
+P1328,80,75+,Female,Hypertensive Nephropathy,City Care Dialysis,Unity Health,S1,Cash,1,14,39911,37615,7
+P1329,64,60-74,Male,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S3,Card,6,10,23719,22736,7
+P1330,65,60-74,Female,Polycystic Kidney Disease,Sunrise Nephrology,CarePlus Network,S4,Insurance,3,15,43527,35968,8
+P1331,69,60-74,Female,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S4,Insurance,0,10,26274,26274,7
+P1332,61,60-74,Female,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S8,Insurance,4,16,53964,45100,8
+P1333,69,60-74,Male,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S2,Insurance,8,6,19539,14786,10
+P1334,47,45-59,Male,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S7,Insurance,5,12,38211,38211,10
+P1335,59,45-59,Female,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S6,Government Scheme,3,11,27531,16942,7
+P1336,72,60-74,Female,Acute Kidney Injury,Metro Renal Hub,CarePlus Network,S6,Insurance,5,6,19907,16799,10
+P1337,62,60-74,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S3,Government Scheme,5,7,23173,17289,8
+P1338,47,45-59,Male,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S6,Card,4,13,30070,28775,6
+P1339,72,60-74,Female,Chronic Glomerulonephritis,Sai Kidney Institute,NephroLife,S3,Government Scheme,10,9,20947,17435,6
+P1340,37,30-44,Female,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S5,Corporate Tie-up,5,13,39225,32288,6
+P1341,48,45-59,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S4,Government Scheme,1,8,23110,15636,8
+P1342,49,45-59,Female,Acute Kidney Injury,Apex Renal Care,NephroLife,S3,Government Scheme,3,7,17574,14580,9
+P1343,37,30-44,Female,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S8,Insurance,8,10,33865,28321,8
+P1344,55,45-59,Male,Obstructive Uropathy,Metro Renal Hub,CarePlus Network,S4,Cash,8,12,41223,38692,10
+P1345,32,30-44,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S5,Government Scheme,7,11,28765,24006,7
+P1346,43,30-44,Male,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S1,Insurance,11,6,13709,12209,5
+P1347,50,45-59,Female,Polycystic Kidney Disease,Green Valley Dialysis,CarePlus Network,S4,Insurance,4,14,41290,41290,6
+P1348,59,45-59,Male,Acute Kidney Injury,Metro Renal Hub,CarePlus Network,S6,Insurance,2,9,31354,31354,10
+P1349,31,30-44,Male,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S2,Insurance,11,6,13169,11715,5
+P1350,66,60-74,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S7,Card,1,7,21368,20776,8
+P1351,78,75+,Male,Chronic Glomerulonephritis,Riverside Renal Unit,Unity Health,S2,Government Scheme,4,8,19942,16862,5
+P1352,56,45-59,Female,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S5,Cash,3,11,24660,24660,5
+P1353,49,45-59,Female,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S3,Insurance,1,6,15296,12940,6
+P1354,74,60-74,Male,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S4,Cash,5,7,16613,15961,7
+P1355,56,45-59,Male,Polycystic Kidney Disease,Riverside Renal Unit,Unity Health,S3,Card,4,13,29587,28836,5
+P1356,53,45-59,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S5,Government Scheme,4,15,51959,33579,10
+P1357,75,75+,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S10,Card,6,12,39244,39244,10
+P1358,40,30-44,Female,Chronic Glomerulonephritis,Lotus Dialysis Centre,NephroLife,S2,Card,0,9,19960,19960,7
+P1359,74,60-74,Female,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S1,Insurance,3,11,28389,25814,7
+P1360,57,45-59,Male,Acute Kidney Injury,Green Valley Dialysis,CarePlus Network,S4,Card,8,13,40863,38702,6
+P1361,72,60-74,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S6,Government Scheme,2,13,34913,28655,9
+P1362,72,60-74,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S6,Card,10,13,43190,42146,10
+P1363,62,60-74,Female,Obstructive Uropathy,Apex Renal Care,NephroLife,S6,Government Scheme,9,9,23235,15598,9
+P1364,60,60-74,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S2,Government Scheme,4,16,47523,40917,10
+P1365,73,60-74,Male,Obstructive Uropathy,Apex Renal Care,NephroLife,S1,Insurance,7,14,41124,36133,9
+P1366,62,60-74,Female,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S5,Government Scheme,2,7,15399,9722,6
+P1367,60,60-74,Female,Acute Kidney Injury,Metro Renal Hub,CarePlus Network,S4,Cash,6,6,21821,20667,10
+P1368,57,45-59,Male,Acute Kidney Injury,Metro Renal Hub,CarePlus Network,S6,Card,2,6,21668,21668,10
+P1369,88,75+,Female,Chronic Glomerulonephritis,Sai Kidney Institute,NephroLife,S1,Insurance,5,14,32149,29873,6
+P1370,44,30-44,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S6,Insurance,3,14,33946,31360,9
+P1371,42,30-44,Male,Obstructive Uropathy,Metro Renal Hub,CarePlus Network,S2,Government Scheme,5,13,44788,37655,10
+P1372,88,75+,Male,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S3,Government Scheme,11,10,26221,22506,6
+P1373,88,75+,Male,Diabetic Nephropathy,City Care Dialysis,Unity Health,S1,Insurance,3,14,31620,31620,7
+P1374,70,60-74,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S5,Government Scheme,4,16,51541,35886,8
+P1375,53,45-59,Female,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S7,Card,0,6,14359,13916,7
+P1376,78,75+,Male,Acute Kidney Injury,Sai Kidney Institute,NephroLife,S6,Government Scheme,8,15,33698,24086,6
+P1377,51,45-59,Male,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S5,Insurance,8,8,18155,16299,5
+P1378,83,75+,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S1,Insurance,11,15,40942,40942,7
+P1379,47,45-59,Male,Obstructive Uropathy,Metro Renal Hub,CarePlus Network,S3,Cash,2,8,30166,30166,10
+P1380,64,60-74,Female,Chronic Glomerulonephritis,Green Valley Dialysis,CarePlus Network,S4,Insurance,2,15,42316,35161,6
+P1381,53,45-59,Male,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S3,Corporate Tie-up,10,13,31213,24321,6
+P1382,46,45-59,Male,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S4,Card,5,12,26681,26681,5
+P1383,71,60-74,Male,Polycystic Kidney Disease,Apex Renal Care,NephroLife,S4,Insurance,0,8,20735,20735,9
+P1384,46,45-59,Female,Obstructive Uropathy,Riverside Renal Unit,Unity Health,S5,Insurance,3,8,20952,18590,5
+P1385,70,60-74,Female,Polycystic Kidney Disease,Metro Renal Hub,CarePlus Network,S1,Cash,1,15,51628,48418,10
+P1386,69,60-74,Male,Polycystic Kidney Disease,Metro Renal Hub,CarePlus Network,S3,Insurance,6,13,44591,35587,10
+P1387,55,45-59,Male,Polycystic Kidney Disease,City Care Dialysis,Unity Health,S4,Insurance,2,13,36592,32361,7
+P1388,44,30-44,Male,Acute Kidney Injury,Sunrise Nephrology,CarePlus Network,S3,Cash,11,8,25142,25142,8
+P1389,59,45-59,Female,Chronic Glomerulonephritis,Green Valley Dialysis,CarePlus Network,S4,Insurance,2,12,30957,26472,6
+P1390,76,75+,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S4,Card,7,8,29494,28693,10
+P1391,64,60-74,Female,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S3,Corporate Tie-up,3,6,13522,11361,6
+P1392,42,30-44,Male,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S1,Government Scheme,10,11,32492,23558,6
+P1393,58,45-59,Male,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S4,Insurance,11,7,14279,14279,6
+P1394,71,60-74,Male,Polycystic Kidney Disease,Green Valley Dialysis,CarePlus Network,S3,Insurance,8,7,19107,17116,6
+P1395,61,60-74,Female,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S5,Insurance,1,8,19807,18480,9
+P1396,69,60-74,Male,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S6,Corporate Tie-up,8,9,30631,23304,10
+P1397,55,45-59,Female,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S2,Card,9,8,22309,21448,8
+P1398,50,45-59,Male,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S2,Government Scheme,0,8,17855,11866,5
+P1399,82,75+,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S1,Government Scheme,2,8,23056,14530,9
+P1400,62,60-74,Female,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S4,Corporate Tie-up,8,10,35826,35826,10
+P1401,66,60-74,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S2,Government Scheme,9,7,20205,15797,9
+P1402,66,60-74,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S10,Card,3,6,19869,19869,10
+P1403,25,18-29,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S5,Government Scheme,8,11,39921,25338,10
+P1404,61,60-74,Female,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S1,Card,4,16,33486,32767,6
+P1405,33,30-44,Male,Chronic Glomerulonephritis,Riverside Renal Unit,Unity Health,S5,Cash,5,11,26938,25625,5
+P1406,64,60-74,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S4,Government Scheme,8,8,17829,11069,7
+P1407,33,30-44,Male,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S5,Cash,1,12,25996,25996,6
+P1408,78,75+,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S8,Government Scheme,8,13,43392,33739,10
+P1409,57,45-59,Female,Acute Kidney Injury,Apex Renal Care,NephroLife,S5,Card,3,13,31242,30229,9
+P1410,57,45-59,Male,Acute Kidney Injury,Apex Renal Care,NephroLife,S2,Insurance,7,9,26096,23513,9
+P1411,39,30-44,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S6,Card,6,14,50783,49105,10
+P1412,36,30-44,Male,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S3,Insurance,11,8,24047,21360,6
+P1413,72,60-74,Male,Chronic Glomerulonephritis,Lotus Dialysis Centre,NephroLife,S7,Insurance,1,12,29253,25549,7
+P1414,66,60-74,Female,Chronic Glomerulonephritis,Green Valley Dialysis,CarePlus Network,S5,Cash,2,7,18706,17989,6
+P1415,52,45-59,Female,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S8,Insurance,11,15,43872,37058,8
+P1416,55,45-59,Male,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S4,Insurance,5,7,15674,14039,5
+P1417,62,60-74,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S2,Insurance,8,13,33851,33851,9
+P1418,67,60-74,Male,Acute Kidney Injury,Metro Renal Hub,CarePlus Network,S5,Card,2,7,21204,20767,10
+P1419,68,60-74,Male,Chronic Glomerulonephritis,Apex Renal Care,NephroLife,S4,Government Scheme,2,10,24569,18121,9
+P1420,64,60-74,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S4,Government Scheme,9,15,51682,44514,10
+P1421,88,75+,Male,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S5,Insurance,11,14,46950,39936,10
+P1422,64,60-74,Female,Chronic Glomerulonephritis,Sunrise Nephrology,CarePlus Network,S5,Cash,5,15,46519,45093,8
+P1423,51,45-59,Male,Obstructive Uropathy,Metro Renal Hub,CarePlus Network,S2,Card,0,13,46407,46407,10
+P1424,34,30-44,Male,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S2,Cash,11,7,21480,20511,6
+P1425,55,45-59,Female,Diabetic Nephropathy,Apex Renal Care,NephroLife,S4,Cash,1,9,25160,23673,9
+P1426,72,60-74,Male,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S5,Card,0,10,24499,24499,5
+P1427,40,30-44,Female,Chronic Glomerulonephritis,Green Valley Dialysis,CarePlus Network,S3,Insurance,2,13,39607,34700,6
+P1428,58,45-59,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S9,Insurance,9,11,41345,35074,10
+P1429,45,45-59,Female,Acute Kidney Injury,City Care Dialysis,Unity Health,S2,Government Scheme,5,10,27332,18456,7
+P1430,18,18-29,Female,Obstructive Uropathy,Sunrise Nephrology,CarePlus Network,S3,Government Scheme,0,10,30939,21403,8
+P1431,84,75+,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S6,Corporate Tie-up,10,12,33603,30270,9
+P1432,56,45-59,Male,Obstructive Uropathy,Green Valley Dialysis,CarePlus Network,S6,Corporate Tie-up,5,15,44507,44507,6
+P1433,57,45-59,Female,Polycystic Kidney Disease,Lotus Dialysis Centre,NephroLife,S2,Insurance,6,9,23829,23829,7
+P1434,62,60-74,Male,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S2,Insurance,7,15,38839,38839,7
+P1435,28,18-29,Female,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S7,Cash,7,8,20435,20435,9
+P1436,53,45-59,Female,Acute Kidney Injury,Metro Renal Hub,CarePlus Network,S4,Card,10,16,58317,56026,10
+P1437,68,60-74,Male,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S4,Corporate Tie-up,6,9,21984,21984,6
+P1438,52,45-59,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S8,Government Scheme,3,15,45427,37284,8
+P1439,63,60-74,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S1,Government Scheme,1,10,37916,32622,10
+P1440,82,75+,Male,Chronic Glomerulonephritis,Lotus Dialysis Centre,NephroLife,S1,Government Scheme,9,13,29897,25450,7
+P1441,31,30-44,Female,Chronic Glomerulonephritis,Apex Renal Care,NephroLife,S1,Insurance,7,14,36911,33940,9
+P1442,55,45-59,Male,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S2,Insurance,3,13,36418,33705,6
+P1443,35,30-44,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S1,Government Scheme,10,13,40496,30613,8
+P1444,35,30-44,Female,Polycystic Kidney Disease,Green Valley Dialysis,CarePlus Network,S5,Insurance,11,7,20834,17367,6
+P1445,40,30-44,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S8,Insurance,4,13,35458,30279,9
+P1446,37,30-44,Female,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S4,Insurance,4,10,23986,23986,6
+P1447,79,75+,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S3,Insurance,9,8,23518,21954,9
+P1448,68,60-74,Female,Chronic Glomerulonephritis,Sunrise Nephrology,CarePlus Network,S5,Insurance,5,14,42893,39722,8
+P1449,32,30-44,Male,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S6,Corporate Tie-up,0,8,26483,23517,10
+P1450,43,30-44,Male,Diabetic Nephropathy,City Care Dialysis,Unity Health,S5,Corporate Tie-up,0,13,34385,34385,7
+P1451,55,45-59,Female,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S5,Government Scheme,8,9,20287,13459,7
+P1452,74,60-74,Male,Diabetic Nephropathy,City Care Dialysis,Unity Health,S3,Card,9,14,33943,32273,7
+P1453,78,75+,Male,Acute Kidney Injury,Lotus Dialysis Centre,NephroLife,S3,Corporate Tie-up,11,6,16529,13267,7
+P1454,52,45-59,Male,Hypertensive Nephropathy,City Care Dialysis,Unity Health,S4,Insurance,4,15,34994,31652,7
+P1455,73,60-74,Female,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S7,Government Scheme,0,7,19579,16092,9
+P1456,38,30-44,Female,Diabetic Nephropathy,City Care Dialysis,Unity Health,S1,Corporate Tie-up,5,9,25572,21307,7
+P1457,63,60-74,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S1,Corporate Tie-up,11,10,31644,31644,8
+P1458,70,60-74,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S3,Government Scheme,4,14,46947,32265,8
+P1459,53,45-59,Female,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S5,Insurance,5,14,47010,37428,10
+P1460,69,60-74,Female,Obstructive Uropathy,Sunrise Nephrology,CarePlus Network,S1,Card,4,11,30361,30361,8
+P1461,49,45-59,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S7,Insurance,0,10,27836,23054,9
+P1462,67,60-74,Female,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S5,Card,8,10,21685,21685,6
+P1463,50,45-59,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S5,Insurance,2,11,41479,41479,10
+P1464,46,45-59,Female,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S4,Government Scheme,7,15,46142,38209,6
+P1465,35,30-44,Female,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S3,Government Scheme,7,10,24839,20560,7
+P1466,63,60-74,Female,Obstructive Uropathy,Sunrise Nephrology,CarePlus Network,S7,Corporate Tie-up,9,11,35040,30580,8
+P1467,54,45-59,Male,Polycystic Kidney Disease,Sunrise Nephrology,CarePlus Network,S5,Cash,3,11,30031,30031,8
+P1468,57,45-59,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S7,Insurance,1,15,47989,41141,10
+P1469,49,45-59,Male,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S1,Government Scheme,5,13,29882,20435,5
+P1470,51,45-59,Female,Obstructive Uropathy,Sai Kidney Institute,NephroLife,S3,Card,6,16,38752,37530,6
+P1471,59,45-59,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S4,Insurance,4,16,38128,31448,9
+P1472,46,45-59,Female,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S4,Cash,8,10,34269,33154,10
+P1473,47,45-59,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S8,Card,10,12,33518,33518,8
+P1474,67,60-74,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S5,Insurance,1,12,29992,25067,7
+P1475,44,30-44,Male,Chronic Glomerulonephritis,Sai Kidney Institute,NephroLife,S4,Insurance,5,11,25974,25974,6
+P1476,41,30-44,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S8,Cash,4,14,38209,38209,9
+P1477,45,45-59,Female,Chronic Glomerulonephritis,Lotus Dialysis Centre,NephroLife,S2,Government Scheme,3,7,16302,10882,7
+P1478,82,75+,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S5,Insurance,1,11,29544,25818,9
+P1479,49,45-59,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S3,Insurance,11,10,29819,26158,9
+P1480,30,30-44,Male,Diabetic Nephropathy,City Care Dialysis,Unity Health,S6,Card,6,7,16094,15327,7
+P1481,35,30-44,Female,Diabetic Nephropathy,Apex Renal Care,NephroLife,S9,Card,3,9,21448,20446,9
+P1482,42,30-44,Female,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S4,Cash,8,9,26332,24986,6
+P1483,28,18-29,Male,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S2,Government Scheme,8,9,28360,20713,6
+P1484,43,30-44,Male,Hypertensive Nephropathy,City Care Dialysis,Unity Health,S6,Cash,5,14,40086,37863,7
+P1485,73,60-74,Female,Diabetic Nephropathy,Apex Renal Care,NephroLife,S3,Insurance,7,6,15320,15320,9
+P1486,77,75+,Female,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S5,Corporate Tie-up,6,14,38128,38128,7
+P1487,48,45-59,Female,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S4,Insurance,9,7,26134,26134,10
+P1488,63,60-74,Female,Hypertensive Nephropathy,City Care Dialysis,Unity Health,S3,Insurance,10,14,36694,31162,7
+P1489,48,45-59,Male,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S1,Government Scheme,1,9,25813,18240,6
+P1490,51,45-59,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S5,Insurance,4,12,43166,33698,10
+P1491,65,60-74,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S3,Insurance,6,16,43579,38713,8
+P1492,81,75+,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S6,Insurance,7,8,26602,21880,10
+P1493,67,60-74,Male,Chronic Glomerulonephritis,Green Valley Dialysis,CarePlus Network,S6,Government Scheme,5,10,28663,17702,6
+P1494,65,60-74,Female,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S4,Insurance,0,14,38449,34386,9
+P1495,60,60-74,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S7,Cash,9,9,26579,26579,8
+P1496,39,30-44,Female,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S3,Insurance,7,12,38832,32940,10
+P1497,56,45-59,Male,Polycystic Kidney Disease,Metro Renal Hub,CarePlus Network,S3,Government Scheme,0,11,40360,26853,10
+P1498,80,75+,Male,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S3,Card,5,12,27666,26810,6
+P1499,66,60-74,Female,Chronic Glomerulonephritis,Sunrise Nephrology,CarePlus Network,S2,Government Scheme,0,8,24014,16990,8
+P1500,72,60-74,Female,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S6,Insurance,9,15,40613,35067,6
+P1501,57,45-59,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S6,Insurance,6,14,46663,41566,8
+P1502,49,45-59,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S7,Insurance,6,7,15236,15236,7
+P1503,50,45-59,Male,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S1,Insurance,1,13,34361,28784,6
+P1504,87,75+,Male,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S4,Insurance,8,15,32974,27673,6
+P1505,76,75+,Male,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S3,Card,6,15,33103,32279,5
+P1506,31,30-44,Male,Chronic Glomerulonephritis,Sunrise Nephrology,CarePlus Network,S6,Corporate Tie-up,1,9,27057,27057,8
+P1507,88,75+,Female,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S4,Cash,11,10,23736,23736,6
+P1508,60,60-74,Male,Obstructive Uropathy,Sunrise Nephrology,CarePlus Network,S7,Cash,7,9,30770,29177,8
+P1509,53,45-59,Female,Acute Kidney Injury,Metro Renal Hub,CarePlus Network,S7,Government Scheme,10,14,44300,36118,10
+P1510,79,75+,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S9,Card,11,10,36640,34856,10
+P1511,61,60-74,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S5,Government Scheme,0,13,34023,23926,7
+P1512,37,30-44,Female,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S8,Government Scheme,5,16,58484,39277,10
+P1513,47,45-59,Male,Acute Kidney Injury,Metro Renal Hub,CarePlus Network,S9,Insurance,9,9,27357,22320,10
+P1514,77,75+,Male,Obstructive Uropathy,Lotus Dialysis Centre,NephroLife,S4,Corporate Tie-up,4,16,36463,36463,7
+P1515,47,45-59,Male,Obstructive Uropathy,Apex Renal Care,NephroLife,S2,Insurance,4,14,41207,34644,9
+P1516,85,75+,Male,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S2,Insurance,4,9,21172,18839,6
+P1517,53,45-59,Male,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S3,Insurance,6,11,29512,24291,7
+P1518,34,30-44,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S6,Insurance,0,15,51713,42781,8
+P1519,66,60-74,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S4,Government Scheme,7,15,35501,29230,9
+P1520,24,18-29,Female,Diabetic Nephropathy,Apex Renal Care,NephroLife,S3,Government Scheme,4,7,20346,13285,9
+P1521,59,45-59,Female,Polycystic Kidney Disease,Green Valley Dialysis,CarePlus Network,S5,Insurance,0,16,48873,45053,6
+P1522,47,45-59,Female,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S4,Insurance,7,7,18880,16626,7
+P1523,46,45-59,Female,Acute Kidney Injury,Metro Renal Hub,CarePlus Network,S6,Card,9,8,24871,24871,10
+P1524,54,45-59,Female,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S1,Card,5,11,23366,23366,5
+P1525,46,45-59,Male,Obstructive Uropathy,Green Valley Dialysis,CarePlus Network,S6,Card,10,13,36892,34745,6
+P1526,88,75+,Female,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S5,Corporate Tie-up,8,7,21870,21870,6
+P1527,72,60-74,Male,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S4,Government Scheme,10,7,17921,14832,5
+P1528,88,75+,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S5,Card,6,12,30881,30145,9
+P1529,77,75+,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S3,Government Scheme,10,10,33215,28548,10
+P1530,50,45-59,Female,Acute Kidney Injury,Sunrise Nephrology,CarePlus Network,S3,Government Scheme,3,7,23108,18299,8
+P1531,22,18-29,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S3,Insurance,1,10,30479,23795,10
+P1532,75,75+,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S7,Card,7,6,18073,18073,8
+P1533,51,45-59,Male,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S1,Corporate Tie-up,1,13,38257,38257,6
+P1534,67,60-74,Female,Chronic Glomerulonephritis,Apex Renal Care,NephroLife,S9,Government Scheme,10,13,32979,21719,9
+P1535,20,18-29,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S5,Insurance,10,16,58859,49141,10
+P1536,54,45-59,Male,Hypertensive Nephropathy,City Care Dialysis,Unity Health,S1,Insurance,7,7,19698,16770,7
+P1537,41,30-44,Female,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S4,Government Scheme,8,12,36230,22294,6
+P1538,77,75+,Male,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S3,Government Scheme,8,15,38533,31200,5
+P1539,69,60-74,Male,Acute Kidney Injury,Apex Renal Care,NephroLife,S4,Government Scheme,3,9,25140,21736,9
+P1540,86,75+,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S10,Cash,10,11,40685,37700,10
+P1541,65,60-74,Female,Polycystic Kidney Disease,Sunrise Nephrology,CarePlus Network,S1,Card,6,13,41604,41604,8
+P1542,70,60-74,Male,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S5,Insurance,5,9,22133,20341,5
+P1543,39,30-44,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S7,Insurance,8,10,30085,30085,10
+P1544,88,75+,Female,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S1,Insurance,8,14,44832,37937,6
+P1545,70,60-74,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S6,Cash,5,9,23643,22216,9
+P1546,65,60-74,Male,Diabetic Nephropathy,City Care Dialysis,Unity Health,S6,Insurance,6,14,35645,35645,7
+P1547,55,45-59,Female,Chronic Glomerulonephritis,Sai Kidney Institute,NephroLife,S5,Insurance,5,14,30903,27531,6
+P1548,53,45-59,Male,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S1,Card,10,9,20709,19655,5
+P1549,88,75+,Female,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S7,Corporate Tie-up,5,16,41801,32533,9
+P1550,76,75+,Female,Diabetic Nephropathy,City Care Dialysis,Unity Health,S5,Insurance,10,10,23782,20801,7
+P1551,47,45-59,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S6,Government Scheme,8,13,39961,24460,10
+P1552,63,60-74,Female,Chronic Glomerulonephritis,Sai Kidney Institute,NephroLife,S6,Insurance,4,14,30060,26731,6
+P1553,46,45-59,Female,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S4,Insurance,10,13,36884,30320,6
+P1554,66,60-74,Male,Acute Kidney Injury,Sunrise Nephrology,CarePlus Network,S5,Insurance,3,12,33660,30115,8
+P1555,61,60-74,Male,Hypertensive Nephropathy,City Care Dialysis,Unity Health,S4,Insurance,9,7,19637,17337,7
+P1556,78,75+,Male,Polycystic Kidney Disease,Metro Renal Hub,CarePlus Network,S6,Card,7,13,48775,46372,10
+P1557,49,45-59,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S5,Cash,6,11,35859,32752,8
+P1558,42,30-44,Female,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S4,Insurance,4,10,25311,25311,9
+P1559,43,30-44,Female,Diabetic Nephropathy,City Care Dialysis,Unity Health,S6,Card,7,15,37665,36048,7
+P1560,59,45-59,Female,Polycystic Kidney Disease,City Care Dialysis,Unity Health,S5,Insurance,6,13,30460,30460,7
+P1561,88,75+,Female,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S5,Government Scheme,8,12,32155,22062,7
+P1562,79,75+,Male,Chronic Glomerulonephritis,Green Valley Dialysis,CarePlus Network,S4,Insurance,8,16,46164,39236,6
+P1563,67,60-74,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S7,Card,0,10,26442,25271,7
+P1564,44,30-44,Female,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S1,Insurance,6,16,36448,36448,6
+P1565,49,45-59,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S8,Corporate Tie-up,0,7,19648,19648,8
+P1566,62,60-74,Male,Chronic Glomerulonephritis,Lotus Dialysis Centre,NephroLife,S3,Cash,3,7,15375,14485,7
+P1567,57,45-59,Female,Diabetic Nephropathy,City Care Dialysis,Unity Health,S4,Government Scheme,2,13,30270,21863,7
+P1568,68,60-74,Male,Obstructive Uropathy,Sai Kidney Institute,NephroLife,S6,Card,0,11,21786,20945,6
+P1569,70,60-74,Male,Acute Kidney Injury,Apex Renal Care,NephroLife,S5,Insurance,1,14,34696,34696,9
+P1570,43,30-44,Female,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S3,Insurance,4,10,23157,23157,6
+P1571,49,45-59,Female,Chronic Glomerulonephritis,Riverside Renal Unit,Unity Health,S4,Insurance,0,16,36142,36142,5
+P1572,82,75+,Male,Chronic Glomerulonephritis,City Care Dialysis,Unity Health,S6,Government Scheme,10,11,30163,21151,7
+P1573,54,45-59,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S2,Corporate Tie-up,0,14,50957,50957,10
+P1574,54,45-59,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S3,Insurance,4,12,28103,28103,7
+P1575,62,60-74,Male,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S8,Cash,10,7,22392,22392,10
+P1576,29,18-29,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S6,Insurance,11,12,34452,30222,8
+P1577,53,45-59,Female,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S4,Cash,1,13,41438,41438,8
+P1578,68,60-74,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S1,Government Scheme,9,9,27135,20441,8
+P1579,88,75+,Male,Obstructive Uropathy,Sunrise Nephrology,CarePlus Network,S4,Insurance,0,8,23575,21983,8
+P1580,33,30-44,Female,Chronic Glomerulonephritis,Green Valley Dialysis,CarePlus Network,S5,Government Scheme,9,9,23023,18033,6
+P1581,72,60-74,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S9,Government Scheme,0,10,37043,25549,10
+P1582,59,45-59,Female,Chronic Glomerulonephritis,Sai Kidney Institute,NephroLife,S4,Insurance,0,10,20327,20327,6
+P1583,54,45-59,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S1,Government Scheme,11,13,38889,28604,10
+P1584,57,45-59,Female,Polycystic Kidney Disease,Apex Renal Care,NephroLife,S1,Insurance,4,10,28110,28110,9
+P1585,58,45-59,Female,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S4,Cash,10,7,19941,19941,6
+P1586,75,75+,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S6,Government Scheme,11,8,22802,14452,8
+P1587,65,60-74,Female,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S4,Cash,0,9,26518,25556,8
+P1588,57,45-59,Female,Chronic Glomerulonephritis,Green Valley Dialysis,CarePlus Network,S1,Government Scheme,0,14,43191,33355,6
+P1589,46,45-59,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S8,Insurance,11,14,33160,33160,9
+P1590,34,30-44,Female,Acute Kidney Injury,Lotus Dialysis Centre,NephroLife,S3,Insurance,3,7,18612,17189,7
+P1591,88,75+,Male,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S6,Card,3,16,39439,39439,6
+P1592,67,60-74,Female,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S3,Government Scheme,0,6,15178,12459,7
+P1593,60,60-74,Male,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S3,Insurance,10,13,39900,33719,6
+P1594,56,45-59,Female,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S7,Government Scheme,10,11,37585,28069,8
+P1595,60,60-74,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S2,Insurance,1,15,40671,33665,9
+P1596,41,30-44,Male,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S1,Insurance,7,11,24397,21857,6
+P1597,56,45-59,Male,Chronic Glomerulonephritis,Lotus Dialysis Centre,NephroLife,S1,Government Scheme,3,12,31578,19865,7
+P1598,82,75+,Female,Chronic Glomerulonephritis,Sai Kidney Institute,NephroLife,S4,Insurance,4,8,18498,17082,6
+P1599,61,60-74,Female,Diabetic Nephropathy,Apex Renal Care,NephroLife,S2,Card,6,12,33191,31901,9
+P1600,54,45-59,Female,Chronic Glomerulonephritis,Lotus Dialysis Centre,NephroLife,S4,Insurance,11,11,29135,29135,7
+P1601,45,45-59,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S3,Card,6,9,32208,30920,10
+P1602,41,30-44,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S6,Card,9,14,47483,46241,8
+P1603,55,45-59,Female,Hypertensive Nephropathy,City Care Dialysis,Unity Health,S3,Government Scheme,2,10,25467,19979,7
+P1604,54,45-59,Female,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S1,Insurance,0,7,20762,20762,9
+P1605,80,75+,Female,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S2,Government Scheme,3,7,15471,10471,6
+P1606,45,45-59,Female,Polycystic Kidney Disease,Sai Kidney Institute,NephroLife,S3,Cash,6,8,18994,18994,6
+P1607,59,45-59,Male,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S6,Government Scheme,4,6,15503,10883,6
+P1608,50,45-59,Male,Polycystic Kidney Disease,Metro Renal Hub,CarePlus Network,S7,Card,0,10,32873,31349,10
+P1609,67,60-74,Female,Acute Kidney Injury,Lotus Dialysis Centre,NephroLife,S4,Insurance,5,13,33715,30813,7
+P1610,45,45-59,Female,Diabetic Nephropathy,Apex Renal Care,NephroLife,S4,Card,11,11,29044,28378,9
+P1611,47,45-59,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S8,Insurance,7,13,43589,43589,10
+P1612,24,18-29,Female,Polycystic Kidney Disease,Apex Renal Care,NephroLife,S7,Card,2,9,24188,24188,9
+P1613,68,60-74,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S2,Cash,11,6,20962,19676,10
+P1614,85,75+,Female,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S3,Insurance,3,10,21112,19614,6
+P1615,61,60-74,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S6,Corporate Tie-up,9,13,35529,29773,8
+P1616,35,30-44,Male,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S1,Corporate Tie-up,4,8,19210,16701,7
+P1617,47,45-59,Female,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S2,Insurance,1,16,41460,36305,6
+P1618,82,75+,Female,Obstructive Uropathy,Green Valley Dialysis,CarePlus Network,S3,Cash,5,9,26683,26683,6
+P1619,65,60-74,Male,Acute Kidney Injury,Apex Renal Care,NephroLife,S3,Government Scheme,6,13,30532,26394,9
+P1620,39,30-44,Female,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S6,Insurance,5,8,21827,18099,8
+P1621,51,45-59,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S2,Card,0,14,39590,38436,9
+P1622,72,60-74,Female,Chronic Glomerulonephritis,City Care Dialysis,Unity Health,S1,Insurance,3,10,24510,24510,7
+P1623,40,30-44,Male,Obstructive Uropathy,Apex Renal Care,NephroLife,S2,Corporate Tie-up,3,14,34620,29040,9
+P1624,54,45-59,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S2,Insurance,7,9,23659,22012,7
+P1625,61,60-74,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S6,Government Scheme,8,14,46516,39462,10
+P1626,56,45-59,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S1,Government Scheme,8,7,19617,14673,8
+P1627,59,45-59,Female,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S8,Government Scheme,1,10,29309,17974,8
+P1628,61,60-74,Female,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S7,Insurance,6,13,44076,35321,10
+P1629,75,75+,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S3,Insurance,9,13,41392,37610,8
+P1630,42,30-44,Female,Chronic Glomerulonephritis,Green Valley Dialysis,CarePlus Network,S6,Insurance,2,10,30142,30142,6
+P1631,72,60-74,Male,Diabetic Nephropathy,City Care Dialysis,Unity Health,S5,Government Scheme,5,9,22565,14490,7
+P1632,57,45-59,Male,Diabetic Nephropathy,City Care Dialysis,Unity Health,S3,Insurance,4,8,20459,18994,7
+P1633,46,45-59,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S2,Government Scheme,3,15,45570,29997,8
+P1634,75,75+,Male,Acute Kidney Injury,Lotus Dialysis Centre,NephroLife,S5,Government Scheme,7,8,18687,14422,7
+P1635,69,60-74,Male,Polycystic Kidney Disease,Metro Renal Hub,CarePlus Network,S6,Insurance,4,14,42063,35109,10
+P1636,63,60-74,Male,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S1,Government Scheme,5,16,40635,25411,5
+P1637,75,75+,Female,Polycystic Kidney Disease,City Care Dialysis,Unity Health,S6,Insurance,3,15,33991,31450,7
+P1638,46,45-59,Male,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S1,Cash,11,16,40106,40106,6
+P1639,47,45-59,Female,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S6,Cash,11,10,24923,22783,6
+P1640,87,75+,Female,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S10,Cash,7,13,38950,38950,10
+P1641,47,45-59,Female,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S2,Insurance,5,14,38764,36022,9
+P1642,62,60-74,Male,Polycystic Kidney Disease,City Care Dialysis,Unity Health,S5,Insurance,3,7,16344,14315,7
+P1643,65,60-74,Female,Polycystic Kidney Disease,Riverside Renal Unit,Unity Health,S5,Cash,3,13,29763,27723,5
+P1644,47,45-59,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S6,Insurance,4,15,37556,37556,7
+P1645,63,60-74,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S4,Card,8,13,37151,35636,9
+P1646,49,45-59,Female,Diabetic Nephropathy,City Care Dialysis,Unity Health,S1,Card,5,7,16990,16142,7
+P1647,77,75+,Female,Obstructive Uropathy,Sai Kidney Institute,NephroLife,S2,Insurance,11,14,31532,26976,6
+P1648,61,60-74,Female,Chronic Glomerulonephritis,Lotus Dialysis Centre,NephroLife,S6,Card,0,8,19620,18920,7
+P1649,76,75+,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S4,Cash,2,11,35239,35239,10
+P1650,52,45-59,Female,Polycystic Kidney Disease,Sai Kidney Institute,NephroLife,S2,Card,11,13,29867,28742,6
+P1651,65,60-74,Male,Chronic Glomerulonephritis,Lotus Dialysis Centre,NephroLife,S1,Government Scheme,5,15,35789,21992,7
+P1652,78,75+,Male,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S3,Insurance,11,16,38888,38888,5
+P1653,84,75+,Female,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S3,Card,0,7,19912,18862,6
+P1654,50,45-59,Female,Diabetic Nephropathy,Apex Renal Care,NephroLife,S2,Government Scheme,7,12,32547,26000,9
+P1655,49,45-59,Male,Chronic Glomerulonephritis,Riverside Renal Unit,Unity Health,S5,Insurance,8,15,35686,31809,5
+P1656,62,60-74,Female,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S2,Cash,8,14,52734,52734,10
+P1657,53,45-59,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S10,Insurance,2,9,32322,32322,10
+P1658,65,60-74,Female,Obstructive Uropathy,Metro Renal Hub,CarePlus Network,S6,Insurance,5,14,49193,39680,10
+P1659,37,30-44,Male,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S4,Cash,4,7,21835,21835,6
+P1660,59,45-59,Female,Chronic Glomerulonephritis,Apex Renal Care,NephroLife,S5,Insurance,1,10,23941,21774,9
+P1661,70,60-74,Male,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S5,Cash,6,12,34536,33160,6
+P1662,38,30-44,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S8,Insurance,3,7,19293,19293,9
+P1663,71,60-74,Female,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S1,Corporate Tie-up,5,7,17331,13517,7
+P1664,63,60-74,Female,Acute Kidney Injury,Sunrise Nephrology,CarePlus Network,S5,Government Scheme,9,15,44883,35020,8
+P1665,62,60-74,Female,Hypertensive Nephropathy,City Care Dialysis,Unity Health,S5,Cash,5,13,30409,30409,7
+P1666,69,60-74,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S8,Cash,3,14,43073,41068,8
+P1667,39,30-44,Male,Acute Kidney Injury,Sai Kidney Institute,NephroLife,S5,Corporate Tie-up,8,7,16670,16670,6
+P1668,88,75+,Male,Polycystic Kidney Disease,Riverside Renal Unit,Unity Health,S1,Insurance,0,7,16494,14148,5
+P1669,77,75+,Female,Acute Kidney Injury,Green Valley Dialysis,CarePlus Network,S4,Card,9,8,24298,22888,6
+P1670,88,75+,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S5,Insurance,2,8,20629,19061,9
+P1671,60,60-74,Female,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S4,Corporate Tie-up,3,7,15012,15012,6
+P1672,82,75+,Male,Acute Kidney Injury,City Care Dialysis,Unity Health,S3,Corporate Tie-up,1,15,41703,41703,7
+P1673,43,30-44,Male,Acute Kidney Injury,Apex Renal Care,NephroLife,S2,Insurance,10,7,18720,18720,9
+P1674,66,60-74,Male,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S6,Government Scheme,0,9,24783,17332,7
+P1675,33,30-44,Male,Acute Kidney Injury,Sai Kidney Institute,NephroLife,S4,Insurance,4,13,32182,32182,6
+P1676,60,60-74,Female,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S2,Government Scheme,1,14,36399,24797,9
+P1677,37,30-44,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S3,Government Scheme,1,14,42311,30242,8
+P1678,59,45-59,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S6,Insurance,1,15,51685,47050,8
+P1679,78,75+,Female,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S4,Insurance,9,8,22394,20947,8
+P1680,78,75+,Male,Acute Kidney Injury,Lotus Dialysis Centre,NephroLife,S1,Government Scheme,5,8,19325,16504,7
+P1681,27,18-29,Female,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S1,Government Scheme,2,7,18248,14870,7
+P1682,57,45-59,Female,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S5,Government Scheme,9,14,31335,24324,7
+P1683,55,45-59,Female,Chronic Glomerulonephritis,Sai Kidney Institute,NephroLife,S2,Insurance,11,13,26601,23133,6
+P1684,55,45-59,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S8,Corporate Tie-up,8,14,47743,47743,10
+P1685,63,60-74,Female,Acute Kidney Injury,Riverside Renal Unit,Unity Health,S4,Government Scheme,2,10,26055,19254,5
+P1686,71,60-74,Male,Obstructive Uropathy,Sai Kidney Institute,NephroLife,S4,Insurance,8,11,25001,25001,6
+P1687,32,30-44,Female,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S5,Insurance,4,13,43672,36908,8
+P1688,41,30-44,Male,Diabetic Nephropathy,City Care Dialysis,Unity Health,S7,Insurance,0,9,23848,23848,7
+P1689,41,30-44,Male,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S5,Card,6,12,33341,32563,6
+P1690,44,30-44,Female,Diabetic Nephropathy,City Care Dialysis,Unity Health,S7,Corporate Tie-up,9,13,31522,31522,7
+P1691,76,75+,Female,Chronic Glomerulonephritis,Apex Renal Care,NephroLife,S8,Government Scheme,6,12,34451,27996,9
+P1692,54,45-59,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S7,Cash,10,8,19682,19682,9
+P1693,63,60-74,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S6,Corporate Tie-up,2,7,16911,14327,7
+P1694,50,45-59,Male,Polycystic Kidney Disease,Sunrise Nephrology,CarePlus Network,S2,Cash,10,14,44567,44567,8
+P1695,76,75+,Female,Polycystic Kidney Disease,Green Valley Dialysis,CarePlus Network,S5,Insurance,4,15,38692,35724,6
+P1696,56,45-59,Female,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S1,Insurance,3,14,28512,25786,6
+P1697,65,60-74,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S1,Insurance,1,10,29147,29147,9
+P1698,61,60-74,Male,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S1,Insurance,6,7,14664,13518,5
+P1699,52,45-59,Female,Chronic Glomerulonephritis,Apex Renal Care,NephroLife,S1,Government Scheme,0,15,41552,26072,9
+P1700,37,30-44,Male,Obstructive Uropathy,City Care Dialysis,Unity Health,S6,Card,2,14,40043,40043,7
+P1701,48,45-59,Female,Obstructive Uropathy,Apex Renal Care,NephroLife,S6,Insurance,3,13,33918,33918,9
+P1702,51,45-59,Female,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S3,Government Scheme,1,7,24919,18265,10
+P1703,59,45-59,Female,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S6,Corporate Tie-up,4,15,32936,28460,7
+P1704,60,60-74,Male,Polycystic Kidney Disease,Metro Renal Hub,CarePlus Network,S8,Government Scheme,11,8,28690,24086,10
+P1705,60,60-74,Male,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S3,Cash,6,15,31310,31310,5
+P1706,65,60-74,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S2,Card,10,10,25593,24281,9
+P1707,59,45-59,Male,Chronic Glomerulonephritis,Apex Renal Care,NephroLife,S7,Government Scheme,6,15,40503,26502,9
+P1708,74,60-74,Female,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S4,Insurance,1,10,21022,18771,5
+P1709,62,60-74,Male,Hypertensive Nephropathy,City Care Dialysis,Unity Health,S5,Government Scheme,5,14,37158,30446,7
+P1710,56,45-59,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S9,Government Scheme,9,9,24287,17099,9
+P1711,29,18-29,Male,Obstructive Uropathy,Apex Renal Care,NephroLife,S4,Government Scheme,5,16,45257,28092,9
+P1712,51,45-59,Female,Chronic Glomerulonephritis,Riverside Renal Unit,Unity Health,S5,Insurance,4,14,30189,26251,5
+P1713,67,60-74,Female,Chronic Glomerulonephritis,Apex Renal Care,NephroLife,S5,Insurance,11,8,22264,20552,9
+P1714,40,30-44,Female,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S2,Card,9,12,38137,37313,6
+P1715,47,45-59,Female,Obstructive Uropathy,Green Valley Dialysis,CarePlus Network,S3,Government Scheme,7,14,38314,24691,6
+P1716,37,30-44,Male,Acute Kidney Injury,Sai Kidney Institute,NephroLife,S6,Insurance,10,8,19237,17487,6
+P1717,48,45-59,Male,Acute Kidney Injury,City Care Dialysis,Unity Health,S5,Corporate Tie-up,5,10,26373,21391,7
+P1718,67,60-74,Female,Chronic Glomerulonephritis,Sai Kidney Institute,NephroLife,S1,Government Scheme,1,12,28010,18972,6
+P1719,42,30-44,Male,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S1,Government Scheme,11,7,15654,11004,6
+P1720,41,30-44,Male,Obstructive Uropathy,Apex Renal Care,NephroLife,S5,Government Scheme,8,9,24596,20039,9
+P1721,43,30-44,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S1,Cash,0,10,29487,27963,9
+P1722,38,30-44,Male,Chronic Glomerulonephritis,Riverside Renal Unit,Unity Health,S4,Insurance,4,10,22415,19154,5
+P1723,63,60-74,Female,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S7,Corporate Tie-up,6,8,21801,18377,7
+P1724,55,45-59,Female,Chronic Glomerulonephritis,Sai Kidney Institute,NephroLife,S6,Government Scheme,11,7,16432,11662,6
+P1725,81,75+,Female,Chronic Glomerulonephritis,City Care Dialysis,Unity Health,S7,Insurance,2,9,24705,24705,7
+P1726,43,30-44,Male,Chronic Glomerulonephritis,Green Valley Dialysis,CarePlus Network,S2,Government Scheme,10,13,39807,28412,6
+P1727,56,45-59,Male,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S3,Card,8,15,45143,43068,6
+P1728,65,60-74,Female,Obstructive Uropathy,Metro Renal Hub,CarePlus Network,S7,Government Scheme,10,12,37250,28186,10
+P1729,88,75+,Male,Chronic Glomerulonephritis,Sai Kidney Institute,NephroLife,S5,Corporate Tie-up,8,7,16361,13439,6
+P1730,37,30-44,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S2,Cash,7,8,21084,21084,9
+P1731,47,45-59,Female,Polycystic Kidney Disease,Metro Renal Hub,CarePlus Network,S8,Cash,6,8,25632,25632,10
+P1732,40,30-44,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S5,Corporate Tie-up,6,14,43249,43249,8
+P1733,80,75+,Male,Obstructive Uropathy,Lotus Dialysis Centre,NephroLife,S7,Insurance,8,12,26848,23187,7
+P1734,39,30-44,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S3,Cash,1,10,28354,25944,9
+P1735,53,45-59,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S5,Cash,10,15,35868,33969,9
+P1736,51,45-59,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S1,Cash,2,13,42969,42969,8
+P1737,48,45-59,Male,Chronic Glomerulonephritis,Green Valley Dialysis,CarePlus Network,S3,Government Scheme,3,7,19024,12126,6
+P1738,47,45-59,Female,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S2,Insurance,0,13,42635,35062,10
+P1739,53,45-59,Male,Chronic Glomerulonephritis,City Care Dialysis,Unity Health,S2,Cash,1,9,25846,25846,7
+P1740,59,45-59,Female,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S7,Insurance,4,7,16031,16031,7
+P1741,67,60-74,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S2,Insurance,11,14,33903,28019,7
+P1742,68,60-74,Female,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S6,Cash,9,16,39243,35987,7
+P1743,74,60-74,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S6,Insurance,10,10,29181,29181,9
+P1744,54,45-59,Male,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S2,Government Scheme,0,8,17688,14399,5
+P1745,76,75+,Male,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S2,Government Scheme,9,12,26305,18769,6
+P1746,69,60-74,Male,Polycystic Kidney Disease,Riverside Renal Unit,Unity Health,S1,Cash,4,10,25377,25377,5
+P1747,52,45-59,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S3,Insurance,6,9,31509,23861,10
+P1748,39,30-44,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S1,Government Scheme,5,14,36537,28928,9
+P1749,75,75+,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S9,Insurance,2,15,54983,54983,10
+P1750,38,30-44,Female,Diabetic Nephropathy,Apex Renal Care,NephroLife,S8,Cash,4,15,38697,35440,9
+P1751,51,45-59,Female,Diabetic Nephropathy,City Care Dialysis,Unity Health,S1,Insurance,5,14,34821,29812,7
+P1752,67,60-74,Female,Chronic Glomerulonephritis,City Care Dialysis,Unity Health,S3,Corporate Tie-up,11,7,18058,14944,7
+P1753,69,60-74,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S5,Card,3,8,28031,26511,10
+P1754,30,30-44,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S5,Card,2,12,32196,30447,9
+P1755,65,60-74,Male,Diabetic Nephropathy,City Care Dialysis,Unity Health,S5,Insurance,9,12,28523,28523,7
+P1756,69,60-74,Male,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S6,Card,1,8,20320,19376,6
+P1757,50,45-59,Male,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S2,Government Scheme,2,10,20070,15465,6
+P1758,65,60-74,Male,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S1,Government Scheme,1,16,42779,36627,6
+P1759,44,30-44,Male,Acute Kidney Injury,Lotus Dialysis Centre,NephroLife,S5,Cash,11,14,36050,36050,7
+P1760,63,60-74,Male,Chronic Glomerulonephritis,Green Valley Dialysis,CarePlus Network,S2,Insurance,7,9,28392,28392,6
+P1761,38,30-44,Female,Diabetic Nephropathy,Apex Renal Care,NephroLife,S6,Government Scheme,7,7,19470,12620,9
+P1762,44,30-44,Male,Hypertensive Nephropathy,City Care Dialysis,Unity Health,S6,Insurance,5,8,20516,17426,7
+P1763,47,45-59,Female,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S9,Corporate Tie-up,9,6,19566,15778,10
+P1764,50,45-59,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S7,Government Scheme,6,8,30321,23563,10
+P1765,88,75+,Female,Chronic Glomerulonephritis,Sai Kidney Institute,NephroLife,S4,Insurance,4,15,35300,29373,6
+P1766,67,60-74,Male,Hypertensive Nephropathy,City Care Dialysis,Unity Health,S6,Government Scheme,9,8,20898,14368,7
+P1767,76,75+,Female,Polycystic Kidney Disease,Riverside Renal Unit,Unity Health,S2,Insurance,4,11,23720,19545,5
+P1768,49,45-59,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S2,Government Scheme,4,11,25776,20064,9
+P1769,78,75+,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S1,Corporate Tie-up,5,7,22749,19356,8
+P1770,77,75+,Female,Chronic Glomerulonephritis,Lotus Dialysis Centre,NephroLife,S6,Government Scheme,2,15,37773,31161,7
+P1771,42,30-44,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S4,Insurance,2,12,38055,33279,8
+P1772,55,45-59,Male,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S8,Government Scheme,1,11,41395,31049,10
+P1773,41,30-44,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S4,Government Scheme,0,11,34366,27277,8
+P1774,49,45-59,Male,Polycystic Kidney Disease,Metro Renal Hub,CarePlus Network,S7,Government Scheme,0,16,48933,35010,10
+P1775,70,60-74,Female,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S2,Government Scheme,10,12,35625,29730,9
+P1776,52,45-59,Male,Obstructive Uropathy,Sai Kidney Institute,NephroLife,S3,Insurance,8,6,13873,13873,6
+P1777,78,75+,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S7,Insurance,6,14,47895,36467,10
+P1778,58,45-59,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S6,Insurance,5,13,32113,32113,9
+P1779,43,30-44,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S6,Cash,10,6,18257,18257,8
+P1780,76,75+,Male,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S3,Corporate Tie-up,11,9,28865,24904,6
+P1781,54,45-59,Female,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S10,Insurance,1,11,40462,34117,10
+P1782,64,60-74,Male,Chronic Glomerulonephritis,City Care Dialysis,Unity Health,S7,Government Scheme,5,15,41019,30083,7
+P1783,44,30-44,Male,Polycystic Kidney Disease,Green Valley Dialysis,CarePlus Network,S5,Insurance,11,13,37305,37305,6
+P1784,74,60-74,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S4,Corporate Tie-up,5,15,41197,41197,8
+P1785,55,45-59,Male,Acute Kidney Injury,Green Valley Dialysis,CarePlus Network,S2,Corporate Tie-up,3,16,46746,46746,6
+P1786,41,30-44,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S7,Government Scheme,9,16,44354,38205,8
+P1787,80,75+,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S7,Insurance,8,11,40224,31840,10
+P1788,74,60-74,Male,Polycystic Kidney Disease,City Care Dialysis,Unity Health,S4,Government Scheme,0,7,18013,15199,7
+P1789,45,45-59,Female,Obstructive Uropathy,Lotus Dialysis Centre,NephroLife,S7,Corporate Tie-up,8,15,41113,37332,7
+P1790,84,75+,Male,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S6,Government Scheme,0,16,37428,32248,6
+P1791,85,75+,Female,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S7,Cash,0,8,19099,17440,9
+P1792,88,75+,Male,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S2,Government Scheme,5,11,22563,15386,6
+P1793,45,45-59,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S8,Card,8,14,50951,48843,10
+P1794,55,45-59,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S4,Government Scheme,0,7,21471,15243,10
+P1795,71,60-74,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S1,Insurance,0,11,24062,20303,7
+P1796,51,45-59,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S3,Insurance,8,9,24606,24606,9
+P1797,78,75+,Male,Chronic Glomerulonephritis,Lotus Dialysis Centre,NephroLife,S7,Card,5,9,21421,20520,7
+P1798,78,75+,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S6,Insurance,3,9,25674,23711,8
+P1799,36,30-44,Male,Chronic Glomerulonephritis,Apex Renal Care,NephroLife,S6,Card,4,14,41433,40569,9
+P1800,71,60-74,Male,Diabetic Nephropathy,City Care Dialysis,Unity Health,S1,Insurance,4,10,22778,22778,7
+P1801,72,60-74,Male,Polycystic Kidney Disease,Apex Renal Care,NephroLife,S7,Corporate Tie-up,9,14,35149,35149,9
+P1802,41,30-44,Female,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S5,Cash,9,10,35651,33131,10
+P1803,84,75+,Male,Polycystic Kidney Disease,Sunrise Nephrology,CarePlus Network,S8,Insurance,8,8,27046,24512,8
+P1804,38,30-44,Female,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S6,Insurance,2,13,31257,31257,6
+P1805,45,45-59,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S6,Insurance,1,12,39685,39685,10
+P1806,43,30-44,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S2,Card,8,8,29510,29510,10
+P1807,58,45-59,Male,Hypertensive Nephropathy,City Care Dialysis,Unity Health,S6,Insurance,9,9,21698,18630,7
+P1808,27,18-29,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S2,Government Scheme,0,12,31890,22098,7
+P1809,59,45-59,Female,Polycystic Kidney Disease,Sai Kidney Institute,NephroLife,S6,Government Scheme,0,16,37153,30775,6
+P1810,79,75+,Female,Diabetic Nephropathy,Apex Renal Care,NephroLife,S2,Government Scheme,10,13,38362,29596,9
+P1811,52,45-59,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S1,Corporate Tie-up,7,11,28729,23061,9
+P1812,63,60-74,Male,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S6,Government Scheme,11,9,27714,17068,6
+P1813,50,45-59,Male,Chronic Glomerulonephritis,Lotus Dialysis Centre,NephroLife,S4,Corporate Tie-up,2,15,38280,31511,7
+P1814,70,60-74,Male,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S1,Corporate Tie-up,7,14,31730,28593,5
+P1815,44,30-44,Male,Polycystic Kidney Disease,Green Valley Dialysis,CarePlus Network,S1,Corporate Tie-up,6,9,26174,20185,6
+P1816,56,45-59,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S4,Insurance,5,10,24228,24228,9
+P1817,48,45-59,Male,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S3,Corporate Tie-up,2,10,28062,23798,6
+P1818,57,45-59,Male,Chronic Glomerulonephritis,Sunrise Nephrology,CarePlus Network,S2,Cash,11,6,18869,17540,8
+P1819,50,45-59,Male,Obstructive Uropathy,Green Valley Dialysis,CarePlus Network,S2,Insurance,2,15,43888,36809,6
+P1820,73,60-74,Male,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S2,Corporate Tie-up,7,9,23182,23182,5
+P1821,88,75+,Female,Acute Kidney Injury,Metro Renal Hub,CarePlus Network,S8,Insurance,0,15,52797,52797,10
+P1822,50,45-59,Male,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S3,Corporate Tie-up,2,14,38901,34035,6
+P1823,72,60-74,Female,Diabetic Nephropathy,City Care Dialysis,Unity Health,S1,Insurance,5,10,24144,20191,7
+P1824,32,30-44,Female,Chronic Glomerulonephritis,Sunrise Nephrology,CarePlus Network,S8,Insurance,0,11,35768,35768,8
+P1825,67,60-74,Male,Acute Kidney Injury,Metro Renal Hub,CarePlus Network,S4,Card,3,15,44991,44991,10
+P1826,67,60-74,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S1,Insurance,1,8,26855,22180,8
+P1827,54,45-59,Female,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S9,Cash,3,12,37964,36031,10
+P1828,66,60-74,Female,Chronic Glomerulonephritis,City Care Dialysis,Unity Health,S3,Government Scheme,7,9,21481,13311,7
+P1829,41,30-44,Female,Chronic Glomerulonephritis,Sai Kidney Institute,NephroLife,S3,Insurance,6,13,30779,26075,6
+P1830,57,45-59,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S4,Insurance,4,12,35309,30330,8
+P1831,57,45-59,Female,Diabetic Nephropathy,City Care Dialysis,Unity Health,S7,Cash,9,10,26078,26078,7
+P1832,54,45-59,Male,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S1,Government Scheme,3,14,38546,30000,6
+P1833,61,60-74,Female,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S6,Insurance,0,14,34732,34732,6
+P1834,53,45-59,Male,Chronic Glomerulonephritis,City Care Dialysis,Unity Health,S6,Government Scheme,6,9,20386,14388,7
+P1835,28,18-29,Female,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S4,Card,2,13,39698,39698,6
+P1836,85,75+,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S9,Government Scheme,9,10,28233,22345,9
+P1837,72,60-74,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S4,Insurance,5,15,51148,51148,10
+P1838,54,45-59,Male,Chronic Glomerulonephritis,Sunrise Nephrology,CarePlus Network,S6,Government Scheme,1,10,30576,25735,8
+P1839,41,30-44,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S7,Card,4,12,31773,30219,9
+P1840,53,45-59,Male,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S5,Card,10,15,47868,46510,10
+P1841,73,60-74,Male,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S4,Government Scheme,1,15,36231,30791,7
+P1842,34,30-44,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S3,Corporate Tie-up,6,14,37193,29760,9
+P1843,58,45-59,Female,Chronic Glomerulonephritis,Riverside Renal Unit,Unity Health,S5,Corporate Tie-up,5,12,25985,22700,5
+P1844,88,75+,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S5,Government Scheme,2,15,46225,33914,10
+P1845,44,30-44,Male,Obstructive Uropathy,Metro Renal Hub,CarePlus Network,S7,Insurance,3,11,33530,26321,10
+P1846,61,60-74,Male,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S4,Insurance,3,13,28366,24053,6
+P1847,34,30-44,Female,Diabetic Nephropathy,Apex Renal Care,NephroLife,S6,Cash,4,14,38105,38105,9
+P1848,47,45-59,Male,Chronic Glomerulonephritis,Riverside Renal Unit,Unity Health,S3,Cash,0,8,17556,16050,5
+P1849,61,60-74,Male,Acute Kidney Injury,Sai Kidney Institute,NephroLife,S3,Insurance,7,9,20297,18793,6
+P1850,41,30-44,Male,Polycystic Kidney Disease,Sai Kidney Institute,NephroLife,S3,Government Scheme,11,8,18629,14862,6
+P1851,39,30-44,Male,Chronic Glomerulonephritis,Sunrise Nephrology,CarePlus Network,S5,Government Scheme,3,10,30496,21219,8
+P1852,43,30-44,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S10,Card,9,6,19356,18896,10
+P1853,75,75+,Female,Chronic Glomerulonephritis,Lotus Dialysis Centre,NephroLife,S4,Cash,9,9,19749,19749,7
+P1854,84,75+,Female,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S6,Government Scheme,2,6,15241,9716,6
+P1855,57,45-59,Female,Polycystic Kidney Disease,Apex Renal Care,NephroLife,S3,Insurance,10,15,37805,31669,9
+P1856,84,75+,Female,Diabetic Nephropathy,City Care Dialysis,Unity Health,S1,Cash,8,11,31216,29524,7
+P1857,54,45-59,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S6,Insurance,1,10,27529,23095,9
+P1858,48,45-59,Female,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S5,Cash,0,7,16669,15983,6
+P1859,67,60-74,Male,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S1,Insurance,11,12,32411,29723,7
+P1860,59,45-59,Male,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S3,Government Scheme,5,8,20149,16171,6
+P1861,58,45-59,Female,Chronic Glomerulonephritis,Sai Kidney Institute,NephroLife,S3,Government Scheme,10,14,30690,22408,6
+P1862,76,75+,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S1,Cash,10,7,22960,21915,8
+P1863,59,45-59,Female,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S1,Government Scheme,7,15,41185,34711,6
+P1864,63,60-74,Male,Chronic Glomerulonephritis,Sai Kidney Institute,NephroLife,S3,Insurance,6,8,15936,13432,6
+P1865,58,45-59,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S2,Cash,6,6,22418,21430,10
+P1866,57,45-59,Female,Obstructive Uropathy,Sunrise Nephrology,CarePlus Network,S7,Government Scheme,2,15,51359,32092,8
+P1867,45,45-59,Male,Polycystic Kidney Disease,Sunrise Nephrology,CarePlus Network,S2,Insurance,4,9,26973,23864,8
+P1868,45,45-59,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S7,Insurance,11,14,36166,36166,9
+P1869,61,60-74,Male,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S2,Government Scheme,10,10,23510,14737,7
+P1870,52,45-59,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S3,Government Scheme,0,12,34395,24482,8
+P1871,43,30-44,Male,Chronic Glomerulonephritis,Green Valley Dialysis,CarePlus Network,S2,Corporate Tie-up,6,8,22598,19562,6
+P1872,59,45-59,Female,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S6,Insurance,6,11,30578,30578,8
+P1873,56,45-59,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S3,Government Scheme,10,11,37619,28799,8
+P1874,72,60-74,Male,Polycystic Kidney Disease,Apex Renal Care,NephroLife,S7,Corporate Tie-up,10,14,41603,41603,9
+P1875,57,45-59,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S8,Corporate Tie-up,7,12,34883,29665,9
+P1876,41,30-44,Male,Acute Kidney Injury,Sai Kidney Institute,NephroLife,S2,Cash,10,14,31899,30600,6
+P1877,47,45-59,Female,Diabetic Nephropathy,Apex Renal Care,NephroLife,S4,Cash,7,11,26641,25611,9
+P1878,75,75+,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S6,Card,1,11,30331,30331,8
+P1879,75,75+,Female,Obstructive Uropathy,Metro Renal Hub,CarePlus Network,S9,Insurance,6,6,22524,18676,10
+P1880,76,75+,Male,Polycystic Kidney Disease,Riverside Renal Unit,Unity Health,S5,Government Scheme,4,14,34569,29636,5
+P1881,77,75+,Male,Polycystic Kidney Disease,Sunrise Nephrology,CarePlus Network,S2,Insurance,4,13,37759,37759,8
+P1882,45,45-59,Male,Polycystic Kidney Disease,Metro Renal Hub,CarePlus Network,S5,Cash,9,8,27795,25747,10
+P1883,36,30-44,Female,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S5,Corporate Tie-up,4,10,22341,22341,6
+P1884,59,45-59,Female,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S5,Government Scheme,7,7,25110,18388,10
+P1885,66,60-74,Male,Chronic Glomerulonephritis,Apex Renal Care,NephroLife,S9,Insurance,2,6,17836,15575,9
+P1886,36,30-44,Female,Obstructive Uropathy,Metro Renal Hub,CarePlus Network,S6,Insurance,5,9,33152,25460,10
+P1887,38,30-44,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S4,Cash,6,15,51303,51303,8
+P1888,59,45-59,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S10,Card,6,9,30685,29661,10
+P1889,28,18-29,Male,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S1,Government Scheme,9,12,34468,29266,6
+P1890,50,45-59,Female,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S2,Government Scheme,5,15,38287,27814,7
+P1891,45,45-59,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S4,Government Scheme,3,7,19062,13721,8
+P1892,45,45-59,Male,Obstructive Uropathy,Sunrise Nephrology,CarePlus Network,S1,Government Scheme,10,15,42292,31712,8
+P1893,76,75+,Female,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S8,Government Scheme,7,15,51200,35015,10
+P1894,72,60-74,Male,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S2,Insurance,2,10,35612,28440,10
+P1895,69,60-74,Male,Chronic Glomerulonephritis,City Care Dialysis,Unity Health,S3,Government Scheme,11,13,30403,24529,7
+P1896,38,30-44,Female,Acute Kidney Injury,Apex Renal Care,NephroLife,S7,Government Scheme,2,10,28518,19624,9
+P1897,60,60-74,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S2,Corporate Tie-up,11,13,44698,38943,10
+P1898,53,45-59,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S8,Card,8,12,29237,28638,9
+P1899,54,45-59,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S6,Insurance,2,9,29510,22314,10
+P1900,30,30-44,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S5,Cash,9,8,27777,27777,10
+P1901,76,75+,Male,Acute Kidney Injury,City Care Dialysis,Unity Health,S3,Card,1,8,19013,18128,7
+P1902,56,45-59,Male,Obstructive Uropathy,Lotus Dialysis Centre,NephroLife,S7,Card,3,10,24738,24001,7
+P1903,59,45-59,Male,Chronic Glomerulonephritis,Lotus Dialysis Centre,NephroLife,S3,Insurance,3,13,33800,28051,7
+P1904,66,60-74,Male,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S2,Cash,8,9,22863,22863,7
+P1905,54,45-59,Female,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S5,Insurance,0,13,36788,31744,6
+P1906,56,45-59,Male,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S5,Insurance,8,9,22925,20823,7
+P1907,65,60-74,Male,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S2,Corporate Tie-up,7,16,35820,35820,6
+P1908,31,30-44,Female,Chronic Glomerulonephritis,Sai Kidney Institute,NephroLife,S6,Card,3,9,19332,18353,6
+P1909,83,75+,Female,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S5,Insurance,11,12,31560,26043,6
+P1910,53,45-59,Male,Acute Kidney Injury,Lotus Dialysis Centre,NephroLife,S3,Government Scheme,6,9,21351,14438,7
+P1911,49,45-59,Female,Acute Kidney Injury,Apex Renal Care,NephroLife,S3,Insurance,5,11,27701,27701,9
+P1912,75,75+,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S7,Government Scheme,11,12,31513,25172,9
+P1913,76,75+,Male,Obstructive Uropathy,Green Valley Dialysis,CarePlus Network,S1,Corporate Tie-up,5,13,35034,26699,6
+P1914,44,30-44,Male,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S3,Corporate Tie-up,3,9,23626,23626,7
+P1915,65,60-74,Female,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S7,Government Scheme,11,14,49545,41295,10
+P1916,58,45-59,Female,Acute Kidney Injury,Sai Kidney Institute,NephroLife,S2,Corporate Tie-up,11,11,24568,21294,6
+P1917,73,60-74,Male,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S5,Cash,8,14,29465,26831,5
+P1918,35,30-44,Male,Diabetic Nephropathy,City Care Dialysis,Unity Health,S4,Government Scheme,1,7,16153,11708,7
+P1919,43,30-44,Male,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S2,Cash,2,14,39844,36523,6
+P1920,70,60-74,Male,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S2,Government Scheme,6,6,17534,15226,6
+P1921,71,60-74,Female,Acute Kidney Injury,Apex Renal Care,NephroLife,S6,Cash,3,8,22992,21026,9
+P1922,57,45-59,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S2,Insurance,3,14,43471,43471,8
+P1923,70,60-74,Female,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S1,Corporate Tie-up,11,6,16119,16119,7
+P1924,55,45-59,Male,Diabetic Nephropathy,City Care Dialysis,Unity Health,S4,Insurance,2,12,27935,23010,7
+P1925,63,60-74,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S1,Government Scheme,7,8,27511,18214,8
+P1926,56,45-59,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S7,Government Scheme,10,9,21442,13381,9
+P1927,68,60-74,Male,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S1,Government Scheme,11,9,23567,18978,6
+P1928,51,45-59,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S2,Cash,10,12,43790,43790,10
+P1929,43,30-44,Female,Acute Kidney Injury,Lotus Dialysis Centre,NephroLife,S3,Insurance,7,12,32465,32465,7
+P1930,45,45-59,Male,Acute Kidney Injury,Apex Renal Care,NephroLife,S9,Corporate Tie-up,1,11,26871,24657,9
+P1931,77,75+,Male,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S2,Government Scheme,8,14,28986,21629,5
+P1932,74,60-74,Male,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S1,Cash,1,8,16805,16170,6
+P1933,50,45-59,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S8,Cash,4,9,29096,27416,8
+P1934,77,75+,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S2,Government Scheme,2,6,20277,15611,8
+P1935,41,30-44,Male,Polycystic Kidney Disease,Green Valley Dialysis,CarePlus Network,S6,Insurance,7,15,39771,33235,6
+P1936,71,60-74,Male,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S4,Insurance,10,9,28303,25738,6
+P1937,57,45-59,Female,Acute Kidney Injury,Apex Renal Care,NephroLife,S2,Card,11,6,16159,15775,9
+P1938,58,45-59,Female,Acute Kidney Injury,Sai Kidney Institute,NephroLife,S2,Government Scheme,10,15,33864,25961,6
+P1939,47,45-59,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S7,Cash,8,15,37125,34229,7
+P1940,64,60-74,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S2,Cash,0,15,42082,39454,9
+P1941,88,75+,Male,Obstructive Uropathy,Riverside Renal Unit,Unity Health,S3,Insurance,4,11,23631,23631,5
+P1942,43,30-44,Female,Chronic Glomerulonephritis,Lotus Dialysis Centre,NephroLife,S3,Cash,2,11,24818,22626,7
+P1943,68,60-74,Female,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S1,Insurance,7,9,28304,26186,6
+P1944,63,60-74,Female,Diabetic Nephropathy,Apex Renal Care,NephroLife,S5,Government Scheme,9,14,38206,30933,9
+P1945,59,45-59,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S6,Corporate Tie-up,11,16,52556,52556,10
+P1946,53,45-59,Female,Polycystic Kidney Disease,Sunrise Nephrology,CarePlus Network,S7,Card,6,12,37791,36487,8
+P1947,52,45-59,Female,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S1,Card,1,9,30501,29379,10
+P1948,42,30-44,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S5,Cash,10,16,53115,49967,8
+P1949,81,75+,Female,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S5,Cash,6,7,25202,23901,10
+P1950,65,60-74,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S8,Cash,3,6,17994,16585,8
+P1951,67,60-74,Male,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S6,Corporate Tie-up,3,13,40490,35608,6
+P1952,75,75+,Female,Polycystic Kidney Disease,Lotus Dialysis Centre,NephroLife,S6,Government Scheme,2,8,19961,12885,7
+P1953,77,75+,Female,Acute Kidney Injury,City Care Dialysis,Unity Health,S3,Government Scheme,7,8,22143,18681,7
+P1954,63,60-74,Male,Chronic Glomerulonephritis,Green Valley Dialysis,CarePlus Network,S2,Insurance,4,10,27730,27730,6
+P1955,63,60-74,Female,Chronic Glomerulonephritis,City Care Dialysis,Unity Health,S3,Government Scheme,4,13,30864,26125,7
+P1956,54,45-59,Female,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S3,Government Scheme,3,13,37826,25056,9
+P1957,56,45-59,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S3,Government Scheme,0,14,52937,42678,10
+P1958,57,45-59,Male,Obstructive Uropathy,Sai Kidney Institute,NephroLife,S4,Card,6,16,33372,32456,6
+P1959,56,45-59,Female,Chronic Glomerulonephritis,Sunrise Nephrology,CarePlus Network,S2,Corporate Tie-up,11,15,51040,44342,8
+P1960,80,75+,Female,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S6,Insurance,10,11,25829,21777,7
+P1961,60,60-74,Male,Polycystic Kidney Disease,Riverside Renal Unit,Unity Health,S3,Insurance,10,10,24099,22466,5
+P1962,41,30-44,Female,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S5,Card,11,13,35234,33194,9
+P1963,63,60-74,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S7,Government Scheme,10,9,25870,17137,8
+P1964,55,45-59,Male,Acute Kidney Injury,Green Valley Dialysis,CarePlus Network,S2,Corporate Tie-up,9,14,35976,32732,6
+P1965,63,60-74,Female,Obstructive Uropathy,Sunrise Nephrology,CarePlus Network,S7,Card,6,9,24936,24035,8
+P1966,48,45-59,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S8,Government Scheme,10,15,46121,37912,8
+P1967,50,45-59,Female,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S1,Insurance,5,12,33405,33405,9
+P1968,83,75+,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S9,Corporate Tie-up,2,8,27858,27858,10
+P1969,65,60-74,Male,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S6,Corporate Tie-up,1,7,21653,21653,6
+P1970,45,45-59,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S8,Insurance,10,15,46099,39995,8
+P1971,44,30-44,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S4,Government Scheme,7,10,31675,20824,10
+P1972,57,45-59,Male,Acute Kidney Injury,Sunrise Nephrology,CarePlus Network,S4,Cash,8,13,38225,35869,8
+P1973,63,60-74,Male,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S3,Insurance,6,10,27839,24530,6
+P1974,72,60-74,Female,Obstructive Uropathy,Sai Kidney Institute,NephroLife,S4,Card,10,6,15004,14520,6
+P1975,64,60-74,Male,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S6,Insurance,8,11,26764,22961,6
+P1976,70,60-74,Female,Chronic Glomerulonephritis,Sai Kidney Institute,NephroLife,S1,Corporate Tie-up,6,13,26262,26262,6
+P1977,46,45-59,Male,Chronic Glomerulonephritis,Lotus Dialysis Centre,NephroLife,S6,Corporate Tie-up,0,14,38509,29346,7
+P1978,68,60-74,Female,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S9,Cash,6,13,38043,36195,9
+P1979,72,60-74,Female,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S4,Government Scheme,10,11,34651,24502,8
+P1980,44,30-44,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S6,Insurance,4,11,31081,26456,8
+P1981,45,45-59,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S10,Government Scheme,7,15,56309,40867,10
+P1982,49,45-59,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S8,Insurance,10,7,23308,19007,10
+P1983,47,45-59,Male,Polycystic Kidney Disease,Riverside Renal Unit,Unity Health,S2,Insurance,10,15,33994,28077,5
+P1984,54,45-59,Female,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S6,Corporate Tie-up,4,9,25279,23154,9
+P1985,48,45-59,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S2,Corporate Tie-up,1,11,38284,34180,10
+P1986,44,30-44,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S7,Insurance,7,15,49074,45922,8
+P1987,67,60-74,Male,Chronic Glomerulonephritis,Riverside Renal Unit,Unity Health,S5,Insurance,2,13,31489,28295,5
+P1988,71,60-74,Male,Acute Kidney Injury,Metro Renal Hub,CarePlus Network,S3,Insurance,0,10,31822,26755,10
+P1989,57,45-59,Female,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S5,Government Scheme,6,10,37471,28497,10
+P1990,41,30-44,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S4,Cash,7,13,44706,40822,10
+P1991,44,30-44,Female,Polycystic Kidney Disease,Metro Renal Hub,CarePlus Network,S7,Government Scheme,0,7,24557,19447,10
+P1992,73,60-74,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S7,Corporate Tie-up,10,15,32615,28928,7
+P1993,55,45-59,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S10,Government Scheme,9,11,40547,33900,10
+P1994,21,18-29,Female,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S4,Insurance,11,15,55310,55310,10
+P1995,68,60-74,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S6,Card,2,14,37083,37083,9
+P1996,61,60-74,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S9,Corporate Tie-up,7,13,32796,32796,9
+P1997,64,60-74,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S5,Corporate Tie-up,0,12,35785,30847,9
+P1998,88,75+,Male,Obstructive Uropathy,Riverside Renal Unit,Unity Health,S5,Government Scheme,10,7,15033,11906,5
+P1999,70,60-74,Female,Chronic Glomerulonephritis,Lotus Dialysis Centre,NephroLife,S3,Insurance,4,16,39310,34018,7
+P2000,81,75+,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S1,Government Scheme,11,7,16123,12742,7
+P2001,51,45-59,Male,Chronic Glomerulonephritis,Riverside Renal Unit,Unity Health,S3,Cash,6,15,31142,31142,5
+P2002,72,60-74,Female,Chronic Glomerulonephritis,Apex Renal Care,NephroLife,S5,Cash,7,14,36465,34623,9
+P2003,83,75+,Female,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S2,Government Scheme,2,15,40462,34960,7
+P2004,62,60-74,Male,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S4,Card,7,6,14543,13746,6
+P2005,39,30-44,Male,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S3,Cash,10,15,47529,45574,6
+P2006,53,45-59,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S5,Insurance,0,8,22022,22022,7
+P2007,75,75+,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S9,Insurance,3,12,37515,31705,10
+P2008,55,45-59,Female,Chronic Glomerulonephritis,Apex Renal Care,NephroLife,S9,Cash,4,10,28759,26627,9
+P2009,57,45-59,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S7,Insurance,10,14,33853,29084,7
+P2010,64,60-74,Female,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S5,Corporate Tie-up,7,7,17574,13807,9
+P2011,48,45-59,Female,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S6,Government Scheme,6,13,28670,18383,6
+P2012,53,45-59,Female,Acute Kidney Injury,Metro Renal Hub,CarePlus Network,S4,Government Scheme,0,6,18510,14579,10
+P2013,53,45-59,Male,Polycystic Kidney Disease,Metro Renal Hub,CarePlus Network,S2,Corporate Tie-up,8,6,20158,20158,10
+P2014,66,60-74,Female,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S5,Cash,9,11,28154,28154,7
+P2015,51,45-59,Male,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S1,Corporate Tie-up,2,9,18605,15240,6
+P2016,55,45-59,Female,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S7,Government Scheme,5,11,32831,25405,10
+P2017,56,45-59,Male,Acute Kidney Injury,Green Valley Dialysis,CarePlus Network,S6,Government Scheme,11,13,40967,25358,6
+P2018,43,30-44,Male,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S3,Card,9,11,28456,27033,6
+P2019,34,30-44,Male,Obstructive Uropathy,City Care Dialysis,Unity Health,S2,Cash,0,14,37729,35774,7
+P2020,37,30-44,Female,Polycystic Kidney Disease,Sai Kidney Institute,NephroLife,S6,Government Scheme,9,16,37002,27032,6
+P2021,70,60-74,Male,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S2,Insurance,4,8,22266,19058,6
+P2022,57,45-59,Female,Chronic Glomerulonephritis,Apex Renal Care,NephroLife,S1,Card,4,7,19228,18416,9
+P2023,49,45-59,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S9,Cash,6,6,18079,17182,10
+P2024,60,60-74,Female,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S1,Cash,11,6,19220,17991,10
+P2025,27,18-29,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S3,Corporate Tie-up,1,13,35996,31041,8
+P2026,49,45-59,Female,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S3,Government Scheme,3,14,50986,38412,10
+P2027,67,60-74,Male,Chronic Glomerulonephritis,Apex Renal Care,NephroLife,S3,Insurance,6,6,16998,14040,9
+P2028,70,60-74,Male,Chronic Glomerulonephritis,Sunrise Nephrology,CarePlus Network,S5,Insurance,0,13,40463,37840,8
+P2029,65,60-74,Male,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S3,Corporate Tie-up,6,8,15872,13008,6
+P2030,42,30-44,Female,Diabetic Nephropathy,Apex Renal Care,NephroLife,S5,Cash,6,7,17678,17117,9
+P2031,51,45-59,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S5,Government Scheme,4,14,36420,28858,7
+P2032,64,60-74,Male,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S3,Cash,11,11,23655,23655,6
+P2033,51,45-59,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S7,Corporate Tie-up,0,12,38465,29315,10
+P2034,77,75+,Male,Hypertensive Nephropathy,City Care Dialysis,Unity Health,S2,Card,6,10,26051,26051,7
+P2035,44,30-44,Female,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S8,Insurance,1,7,19645,17389,8
+P2036,56,45-59,Male,Chronic Glomerulonephritis,City Care Dialysis,Unity Health,S4,Cash,4,6,13823,13214,7
+P2037,53,45-59,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S1,Insurance,0,10,23642,20996,9
+P2038,62,60-74,Female,Obstructive Uropathy,Green Valley Dialysis,CarePlus Network,S5,Card,10,9,26909,26909,6
+P2039,74,60-74,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S8,Card,8,13,36694,36694,9
+P2040,56,45-59,Male,Chronic Glomerulonephritis,Apex Renal Care,NephroLife,S3,Government Scheme,10,9,22078,16902,9
+P2041,55,45-59,Female,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S7,Government Scheme,2,15,44244,34366,8
+P2042,57,45-59,Female,Hypertensive Nephropathy,City Care Dialysis,Unity Health,S6,Corporate Tie-up,11,12,32586,25542,7
+P2043,74,60-74,Female,Polycystic Kidney Disease,Metro Renal Hub,CarePlus Network,S7,Corporate Tie-up,5,12,38162,31748,10
+P2044,67,60-74,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S2,Card,10,14,44110,42608,10
+P2045,82,75+,Female,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S2,Cash,6,16,49279,46336,6
+P2046,48,45-59,Male,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S3,Cash,1,9,18845,17344,6
+P2047,55,45-59,Female,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S1,Government Scheme,7,8,26588,19055,10
+P2048,59,45-59,Female,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S5,Government Scheme,10,14,35177,26738,5
+P2049,68,60-74,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S5,Insurance,11,11,33423,25839,10
+P2050,60,60-74,Female,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S5,Government Scheme,0,11,25493,21550,6
+P2051,59,45-59,Female,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S3,Government Scheme,7,15,36688,31454,5
+P2052,33,30-44,Female,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S5,Insurance,2,14,29253,29253,6
+P2053,68,60-74,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S2,Insurance,11,8,24268,20771,8
+P2054,64,60-74,Male,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S1,Insurance,6,13,33620,30117,5
+P2055,60,60-74,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S2,Insurance,9,10,37284,28008,10
+P2056,60,60-74,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S2,Cash,4,16,40860,40860,7
+P2057,43,30-44,Male,Chronic Glomerulonephritis,Apex Renal Care,NephroLife,S9,Insurance,7,13,35368,33208,9
+P2058,43,30-44,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S5,Government Scheme,1,12,37273,24637,8
+P2059,50,45-59,Female,Obstructive Uropathy,Metro Renal Hub,CarePlus Network,S1,Insurance,5,12,44922,34170,10
+P2060,70,60-74,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S8,Cash,10,15,48922,47081,8
+P2061,47,45-59,Female,Chronic Glomerulonephritis,City Care Dialysis,Unity Health,S6,Insurance,0,12,30130,26291,7
+P2062,73,60-74,Male,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S3,Government Scheme,11,11,23759,18767,6
+P2063,59,45-59,Female,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S1,Cash,10,9,27036,24643,6
+P2064,65,60-74,Female,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S4,Insurance,6,15,37494,37494,7
+P2065,60,60-74,Female,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S4,Cash,3,14,36022,34531,7
+P2066,79,75+,Female,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S4,Insurance,3,8,26340,26340,8
+P2067,46,45-59,Male,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S1,Corporate Tie-up,4,7,21509,18492,10
+P2068,56,45-59,Female,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S3,Corporate Tie-up,6,8,16795,14302,5
+P2069,66,60-74,Male,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S5,Insurance,6,7,14274,14274,6
+P2070,43,30-44,Male,Acute Kidney Injury,Lotus Dialysis Centre,NephroLife,S2,Government Scheme,8,9,21761,17628,7
+P2071,59,45-59,Male,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S4,Insurance,9,16,35053,35053,6
+P2072,49,45-59,Male,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S2,Government Scheme,4,11,23818,19647,5
+P2073,59,45-59,Female,Acute Kidney Injury,Metro Renal Hub,CarePlus Network,S8,Card,0,10,33364,32496,10
+P2074,67,60-74,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S4,Corporate Tie-up,11,9,30435,25002,10
+P2075,38,30-44,Male,Polycystic Kidney Disease,Apex Renal Care,NephroLife,S8,Cash,0,10,25182,23346,9
+P2076,38,30-44,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S4,Cash,6,12,35636,34523,8
+P2077,62,60-74,Female,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S7,Government Scheme,5,15,38205,27287,7
+P2078,53,45-59,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S4,Cash,2,9,24133,24133,9
+P2079,27,18-29,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S4,Government Scheme,6,13,34197,21271,7
+P2080,43,30-44,Male,Diabetic Nephropathy,City Care Dialysis,Unity Health,S6,Card,11,7,19326,19326,7
+P2081,52,45-59,Male,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S2,Insurance,7,9,23832,20970,7
+P2082,63,60-74,Female,Diabetic Nephropathy,Apex Renal Care,NephroLife,S7,Card,1,8,19631,19631,9
+P2083,66,60-74,Female,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S3,Insurance,9,12,29851,24876,5
+P2084,54,45-59,Female,Polycystic Kidney Disease,Green Valley Dialysis,CarePlus Network,S6,Government Scheme,1,15,39126,33669,6
+P2085,41,30-44,Female,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S5,Government Scheme,11,6,16949,11932,6
+P2086,71,60-74,Male,Polycystic Kidney Disease,Apex Renal Care,NephroLife,S2,Government Scheme,0,9,23396,16018,9
+P2087,39,30-44,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S6,Cash,8,15,40383,40383,7
+P2088,45,45-59,Female,Acute Kidney Injury,Metro Renal Hub,CarePlus Network,S3,Card,0,15,46604,46604,10
+P2089,55,45-59,Female,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S9,Government Scheme,7,9,29155,22576,10
+P2090,66,60-74,Female,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S8,Cash,10,16,49544,49544,10
+P2091,40,30-44,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S3,Corporate Tie-up,2,6,14050,14050,7
+P2092,54,45-59,Female,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S2,Corporate Tie-up,10,6,21420,21420,10
+P2093,86,75+,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S9,Government Scheme,5,15,56376,45264,10
+P2094,70,60-74,Male,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S3,Insurance,5,9,26421,26421,6
+P2095,62,60-74,Female,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S2,Corporate Tie-up,3,14,31054,24475,5
+P2096,62,60-74,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S10,Insurance,1,10,32433,32433,10
+P2097,51,45-59,Male,Acute Kidney Injury,Sunrise Nephrology,CarePlus Network,S8,Insurance,6,16,47205,47205,8
+P2098,46,45-59,Male,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S5,Card,0,8,21992,21992,6
+P2099,84,75+,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S8,Corporate Tie-up,10,8,18987,18987,9
+P2100,58,45-59,Female,Polycystic Kidney Disease,Sunrise Nephrology,CarePlus Network,S7,Government Scheme,3,9,24563,17647,8
+P2101,45,45-59,Male,Acute Kidney Injury,Sunrise Nephrology,CarePlus Network,S7,Card,2,14,38553,38553,8
+P2102,53,45-59,Male,Chronic Glomerulonephritis,Green Valley Dialysis,CarePlus Network,S4,Insurance,4,15,44783,38362,6
+P2103,88,75+,Male,Polycystic Kidney Disease,Green Valley Dialysis,CarePlus Network,S1,Government Scheme,1,13,34676,26009,6
+P2104,53,45-59,Female,Obstructive Uropathy,Apex Renal Care,NephroLife,S7,Insurance,10,9,22460,19814,9
+P2105,36,30-44,Female,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S3,Corporate Tie-up,2,8,25024,25024,10
+P2106,75,75+,Female,Hypertensive Nephropathy,City Care Dialysis,Unity Health,S6,Corporate Tie-up,11,14,38021,30676,7
+P2107,50,45-59,Male,Acute Kidney Injury,Lotus Dialysis Centre,NephroLife,S2,Insurance,3,9,19667,18156,7
+P2108,76,75+,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S2,Card,5,10,27021,25959,8
+P2109,49,45-59,Female,Acute Kidney Injury,Sunrise Nephrology,CarePlus Network,S1,Card,11,12,40739,39604,8
+P2110,37,30-44,Male,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S3,Corporate Tie-up,9,12,38347,34894,6
+P2111,55,45-59,Male,Acute Kidney Injury,Green Valley Dialysis,CarePlus Network,S1,Card,3,15,46376,44209,6
+P2112,66,60-74,Male,Obstructive Uropathy,Apex Renal Care,NephroLife,S5,Government Scheme,11,14,35250,23203,9
+P2113,62,60-74,Male,Chronic Glomerulonephritis,Sunrise Nephrology,CarePlus Network,S8,Government Scheme,8,8,25568,20333,8
+P2114,38,30-44,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S2,Cash,4,8,24479,23599,8
+P2115,29,18-29,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S8,Corporate Tie-up,1,15,43982,36647,8
+P2116,86,75+,Female,Diabetic Nephropathy,City Care Dialysis,Unity Health,S6,Insurance,7,16,37134,37134,7
+P2117,51,45-59,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S10,Cash,1,8,29084,29084,10
+P2118,55,45-59,Male,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S4,Government Scheme,1,16,40087,31213,5
+P2119,52,45-59,Female,Polycystic Kidney Disease,Sunrise Nephrology,CarePlus Network,S8,Government Scheme,7,12,38676,23832,8
+P2120,53,45-59,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S4,Government Scheme,11,8,27528,23827,10
+P2121,59,45-59,Female,Obstructive Uropathy,City Care Dialysis,Unity Health,S6,Card,5,12,27874,27165,7
+P2122,56,45-59,Female,Polycystic Kidney Disease,Apex Renal Care,NephroLife,S9,Card,11,10,23653,23079,9
+P2123,39,30-44,Male,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S7,Insurance,5,11,24256,24256,7
+P2124,50,45-59,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S5,Insurance,9,7,19213,19213,7
+P2125,70,60-74,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S3,Insurance,8,15,49630,43383,8
+P2126,75,75+,Male,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S6,Government Scheme,0,7,19273,13054,6
+P2127,49,45-59,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S6,Government Scheme,9,12,32457,21536,9
+P2128,53,45-59,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S6,Card,4,13,43116,43116,8
+P2129,48,45-59,Male,Chronic Glomerulonephritis,Green Valley Dialysis,CarePlus Network,S6,Card,6,12,33503,33503,6
+P2130,55,45-59,Male,Diabetic Nephropathy,City Care Dialysis,Unity Health,S2,Insurance,2,12,30733,25283,7
+P2131,70,60-74,Male,Polycystic Kidney Disease,Green Valley Dialysis,CarePlus Network,S6,Cash,4,8,21560,21560,6
+P2132,60,60-74,Female,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S5,Cash,5,7,15320,14728,5
+P2133,66,60-74,Female,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S2,Government Scheme,7,7,16057,13185,5
+P2134,54,45-59,Male,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S2,Insurance,4,14,35004,35004,5
+P2135,69,60-74,Male,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S4,Insurance,6,9,22919,20308,7
+P2136,60,60-74,Male,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S2,Government Scheme,5,10,27519,19994,7
+P2137,78,75+,Male,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S9,Insurance,10,6,20627,20627,10
+P2138,85,75+,Female,Acute Kidney Injury,Riverside Renal Unit,Unity Health,S3,Government Scheme,9,16,33151,20579,5
+P2139,69,60-74,Female,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S4,Insurance,9,13,27684,25360,6
+P2140,74,60-74,Male,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S4,Cash,11,10,23974,22489,6
+P2141,42,30-44,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S7,Insurance,3,11,31021,28778,9
+P2142,60,60-74,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S8,Insurance,9,16,50916,42424,8
+P2143,70,60-74,Female,Polycystic Kidney Disease,Apex Renal Care,NephroLife,S1,Card,7,6,16727,16030,9
+P2144,44,30-44,Male,Diabetic Nephropathy,City Care Dialysis,Unity Health,S4,Government Scheme,11,15,36353,27590,7
+P2145,56,45-59,Female,Chronic Glomerulonephritis,Apex Renal Care,NephroLife,S2,Corporate Tie-up,4,14,34891,34891,9
+P2146,49,45-59,Female,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S2,Insurance,1,8,27899,27899,10
+P2147,27,18-29,Male,Diabetic Nephropathy,City Care Dialysis,Unity Health,S3,Government Scheme,6,14,35178,29829,7
+P2148,65,60-74,Female,Polycystic Kidney Disease,Lotus Dialysis Centre,NephroLife,S7,Insurance,2,15,40788,33941,7
+P2149,39,30-44,Female,Hypertensive Nephropathy,City Care Dialysis,Unity Health,S6,Cash,0,14,35394,33662,7
+P2150,48,45-59,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S7,Card,8,14,31305,30612,7
+P2151,55,45-59,Male,Acute Kidney Injury,Metro Renal Hub,CarePlus Network,S7,Cash,1,11,34774,33467,10
+P2152,48,45-59,Male,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S6,Government Scheme,3,7,15869,12041,7
+P2153,58,45-59,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S3,Insurance,0,7,22891,20251,8
+P2154,80,75+,Male,Polycystic Kidney Disease,Sunrise Nephrology,CarePlus Network,S6,Card,7,7,19766,18784,8
+P2155,64,60-74,Male,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S4,Card,8,13,31431,29898,5
+P2156,58,45-59,Male,Chronic Glomerulonephritis,Green Valley Dialysis,CarePlus Network,S2,Insurance,4,12,34245,30172,6
+P2157,56,45-59,Male,Polycystic Kidney Disease,Metro Renal Hub,CarePlus Network,S7,Government Scheme,1,6,18062,12605,10
+P2158,50,45-59,Female,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S3,Government Scheme,2,7,14897,12078,6
+P2159,55,45-59,Female,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S7,Insurance,0,8,24061,20146,8
+P2160,58,45-59,Male,Polycystic Kidney Disease,Sunrise Nephrology,CarePlus Network,S5,Corporate Tie-up,8,7,23110,17829,8
+P2161,81,75+,Male,Chronic Glomerulonephritis,City Care Dialysis,Unity Health,S6,Insurance,3,11,28006,28006,7
+P2162,42,30-44,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S8,Insurance,6,12,38562,32373,10
+P2163,61,60-74,Male,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S3,Card,0,14,31038,30288,6
+P2164,58,45-59,Male,Diabetic Nephropathy,City Care Dialysis,Unity Health,S5,Corporate Tie-up,5,14,39080,35689,7
+P2165,79,75+,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S10,Insurance,8,11,35463,27127,10
+P2166,62,60-74,Female,Acute Kidney Injury,Metro Renal Hub,CarePlus Network,S5,Card,11,11,34289,34289,10
+P2167,61,60-74,Male,Chronic Glomerulonephritis,Apex Renal Care,NephroLife,S8,Insurance,4,8,23486,21488,9
+P2168,82,75+,Female,Acute Kidney Injury,Green Valley Dialysis,CarePlus Network,S1,Insurance,0,7,21125,18705,6
+P2169,45,45-59,Female,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S5,Cash,1,10,27461,26265,6
+P2170,57,45-59,Female,Hypertensive Nephropathy,City Care Dialysis,Unity Health,S7,Government Scheme,0,11,28192,21542,7
+P2171,64,60-74,Male,Diabetic Nephropathy,City Care Dialysis,Unity Health,S5,Insurance,5,10,25936,21773,7
+P2172,55,45-59,Male,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S4,Insurance,5,13,43066,37021,10
+P2173,36,30-44,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S5,Government Scheme,0,14,35370,25813,9
+P2174,67,60-74,Male,Chronic Glomerulonephritis,Green Valley Dialysis,CarePlus Network,S3,Government Scheme,1,12,34489,29346,6
+P2175,55,45-59,Female,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S2,Card,6,15,32786,32786,7
+P2176,54,45-59,Female,Obstructive Uropathy,Metro Renal Hub,CarePlus Network,S1,Card,3,10,36684,34573,10
+P2177,71,60-74,Female,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S5,Cash,4,13,26260,26260,6
+P2178,51,45-59,Female,Hypertensive Nephropathy,City Care Dialysis,Unity Health,S5,Card,8,11,30576,29445,7
+P2179,43,30-44,Male,Diabetic Nephropathy,City Care Dialysis,Unity Health,S7,Corporate Tie-up,8,14,40120,40120,7
+P2180,57,45-59,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S7,Government Scheme,8,7,19438,15038,8
+P2181,52,45-59,Male,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S5,Cash,11,6,15165,13808,6
+P2182,80,75+,Female,Obstructive Uropathy,Green Valley Dialysis,CarePlus Network,S5,Government Scheme,7,13,40316,28348,6
+P2183,72,60-74,Female,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S8,Insurance,9,12,29226,29226,9
+P2184,31,30-44,Female,Obstructive Uropathy,Green Valley Dialysis,CarePlus Network,S3,Insurance,8,14,43310,43310,6
+P2185,37,30-44,Female,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S1,Cash,3,12,27995,26454,5
+P2186,55,45-59,Male,Obstructive Uropathy,Sai Kidney Institute,NephroLife,S6,Cash,0,12,26148,24981,6
+P2187,88,75+,Male,Obstructive Uropathy,City Care Dialysis,Unity Health,S4,Card,2,7,16373,15590,7
+P2188,41,30-44,Female,Polycystic Kidney Disease,Metro Renal Hub,CarePlus Network,S3,Government Scheme,8,12,41312,32239,10
+P2189,45,45-59,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S2,Cash,4,11,37856,34493,10
+P2190,69,60-74,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S1,Cash,10,15,55126,55126,10
+P2191,44,30-44,Female,Hypertensive Nephropathy,City Care Dialysis,Unity Health,S6,Government Scheme,5,14,38178,28213,7
+P2192,55,45-59,Female,Polycystic Kidney Disease,City Care Dialysis,Unity Health,S1,Insurance,6,12,27601,27601,7
+P2193,85,75+,Male,Acute Kidney Injury,Sunrise Nephrology,CarePlus Network,S8,Government Scheme,7,12,32853,25436,8
+P2194,52,45-59,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S6,Insurance,1,10,36820,28699,10
+P2195,41,30-44,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S4,Cash,8,8,25796,24091,8
+P2196,37,30-44,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S8,Corporate Tie-up,6,7,23790,20525,8
+P2197,65,60-74,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S7,Insurance,3,8,19249,19249,9
+P2198,72,60-74,Male,Obstructive Uropathy,City Care Dialysis,Unity Health,S3,Government Scheme,9,10,23690,17854,7
+P2199,40,30-44,Female,Obstructive Uropathy,Apex Renal Care,NephroLife,S3,Card,3,11,32698,32698,9
+P2200,82,75+,Male,Polycystic Kidney Disease,Sunrise Nephrology,CarePlus Network,S7,Government Scheme,10,13,39972,29440,8
+P2201,54,45-59,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S8,Card,11,9,26504,25529,9
+P2202,70,60-74,Female,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S4,Card,5,8,22290,21385,8
+P2203,55,45-59,Male,Chronic Glomerulonephritis,Lotus Dialysis Centre,NephroLife,S5,Corporate Tie-up,6,13,31424,25487,7
+P2204,77,75+,Female,Hypertensive Nephropathy,City Care Dialysis,Unity Health,S2,Corporate Tie-up,3,6,16367,16367,7
+P2205,81,75+,Female,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S3,Insurance,2,6,16527,13574,6
+P2206,52,45-59,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S5,Card,10,12,41120,39056,8
+P2207,40,30-44,Male,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S5,Cash,11,8,21562,21562,7
+P2208,63,60-74,Female,Acute Kidney Injury,Lotus Dialysis Centre,NephroLife,S5,Government Scheme,8,16,40784,32321,7
+P2209,57,45-59,Male,Chronic Glomerulonephritis,Green Valley Dialysis,CarePlus Network,S2,Insurance,8,14,44227,37883,6
+P2210,57,45-59,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S7,Insurance,7,12,38362,29399,10
+P2211,63,60-74,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S6,Government Scheme,7,11,39191,32528,10
+P2212,51,45-59,Male,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S1,Cash,5,8,19436,19436,5
+P2213,39,30-44,Female,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S7,Cash,4,13,36737,36737,8
+P2214,48,45-59,Male,Acute Kidney Injury,Lotus Dialysis Centre,NephroLife,S4,Government Scheme,9,14,32711,23030,7
+P2215,64,60-74,Male,Polycystic Kidney Disease,City Care Dialysis,Unity Health,S5,Card,5,15,39118,38174,7
+P2216,74,60-74,Male,Polycystic Kidney Disease,Lotus Dialysis Centre,NephroLife,S5,Cash,5,10,27412,26307,7
+P2217,64,60-74,Male,Polycystic Kidney Disease,Metro Renal Hub,CarePlus Network,S3,Government Scheme,6,12,39513,30618,10
+P2218,58,45-59,Male,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S4,Insurance,8,14,30785,28221,5
+P2219,63,60-74,Female,Diabetic Nephropathy,City Care Dialysis,Unity Health,S1,Card,5,8,22165,22165,7
+P2220,47,45-59,Female,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S4,Government Scheme,8,7,18182,14088,7
+P2221,43,30-44,Male,Polycystic Kidney Disease,Apex Renal Care,NephroLife,S7,Government Scheme,1,16,38997,25164,9
+P2222,63,60-74,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S5,Government Scheme,4,12,31769,27142,9
+P2223,64,60-74,Female,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S3,Government Scheme,5,15,37415,27129,6
+P2224,60,60-74,Female,Hypertensive Nephropathy,City Care Dialysis,Unity Health,S7,Government Scheme,4,15,35046,24056,7
+P2225,74,60-74,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S10,Cash,1,13,45191,45191,10
+P2226,68,60-74,Female,Hypertensive Nephropathy,City Care Dialysis,Unity Health,S2,Government Scheme,3,6,16506,12762,7
+P2227,86,75+,Male,Acute Kidney Injury,Apex Renal Care,NephroLife,S6,Corporate Tie-up,8,7,16405,16405,9
+P2228,56,45-59,Female,Chronic Glomerulonephritis,Sunrise Nephrology,CarePlus Network,S6,Insurance,3,10,31650,31650,8
+P2229,56,45-59,Female,Acute Kidney Injury,Metro Renal Hub,CarePlus Network,S10,Card,4,13,40001,37847,10
+P2230,59,45-59,Male,Obstructive Uropathy,Lotus Dialysis Centre,NephroLife,S2,Government Scheme,10,14,36431,29891,7
+P2231,29,18-29,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S1,Insurance,2,8,20084,18493,9
+P2232,45,45-59,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S3,Cash,2,10,30482,29091,8
+P2233,57,45-59,Male,Acute Kidney Injury,Metro Renal Hub,CarePlus Network,S8,Corporate Tie-up,6,14,49316,41792,10
+P2234,66,60-74,Male,Acute Kidney Injury,Apex Renal Care,NephroLife,S6,Cash,9,11,27278,25735,9
+P2235,46,45-59,Female,Obstructive Uropathy,Riverside Renal Unit,Unity Health,S4,Corporate Tie-up,5,12,29082,23308,5
+P2236,45,45-59,Male,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S6,Cash,3,8,23819,23819,6
+P2237,53,45-59,Male,Acute Kidney Injury,Sai Kidney Institute,NephroLife,S1,Insurance,5,13,29266,26943,6
+P2238,75,75+,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S2,Card,2,8,19425,18396,7
+P2239,73,60-74,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S2,Government Scheme,8,15,53445,43520,10
+P2240,63,60-74,Male,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S1,Insurance,0,7,15956,13602,5
+P2241,84,75+,Male,Diabetic Nephropathy,City Care Dialysis,Unity Health,S6,Government Scheme,11,11,28228,20383,7
+P2242,63,60-74,Male,Chronic Glomerulonephritis,City Care Dialysis,Unity Health,S1,Government Scheme,4,14,39572,26296,7
+P2243,63,60-74,Female,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S4,Insurance,1,11,26049,21761,7
+P2244,75,75+,Female,Diabetic Nephropathy,Apex Renal Care,NephroLife,S7,Government Scheme,3,9,21201,16776,9
+P2245,62,60-74,Male,Polycystic Kidney Disease,Apex Renal Care,NephroLife,S6,Corporate Tie-up,11,13,34644,34644,9
+P2246,68,60-74,Female,Diabetic Nephropathy,Apex Renal Care,NephroLife,S1,Insurance,1,11,30460,28437,9
+P2247,35,30-44,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S3,Corporate Tie-up,9,7,22770,18243,10
+P2248,38,30-44,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S5,Insurance,2,6,17005,14657,8
+P2249,65,60-74,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S8,Insurance,2,12,33666,33666,8
+P2250,68,60-74,Female,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S5,Insurance,0,16,44240,39566,6
+P2251,56,45-59,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S3,Cash,6,11,29841,28772,8
+P2252,52,45-59,Male,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S1,Government Scheme,7,14,31068,26424,5
+P2253,41,30-44,Female,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S3,Government Scheme,9,7,16901,14434,5
+P2254,67,60-74,Female,Diabetic Nephropathy,Apex Renal Care,NephroLife,S6,Insurance,3,9,22587,18890,9
+P2255,28,18-29,Male,Acute Kidney Injury,Sunrise Nephrology,CarePlus Network,S4,Insurance,4,15,51262,44714,8
+P2256,56,45-59,Male,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S5,Cash,7,14,44549,42541,6
+P2257,74,60-74,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S2,Government Scheme,6,6,17952,11364,10
+P2258,29,18-29,Female,Obstructive Uropathy,Lotus Dialysis Centre,NephroLife,S7,Government Scheme,1,7,18172,14079,7
+P2259,35,30-44,Male,Chronic Glomerulonephritis,Riverside Renal Unit,Unity Health,S5,Government Scheme,5,8,18685,15143,5
+P2260,36,30-44,Female,Obstructive Uropathy,Riverside Renal Unit,Unity Health,S4,Government Scheme,7,8,16640,12594,5
+P2261,20,18-29,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S9,Insurance,7,8,28189,28189,10
+P2262,42,30-44,Male,Polycystic Kidney Disease,City Care Dialysis,Unity Health,S1,Corporate Tie-up,4,7,16802,15086,7
+P2263,63,60-74,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S3,Government Scheme,0,14,42164,30231,10
+P2264,76,75+,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S3,Insurance,10,12,38699,33091,8
+P2265,48,45-59,Female,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S2,Card,9,14,31376,29707,5
+P2266,43,30-44,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S10,Insurance,1,7,23184,18261,10
+P2267,53,45-59,Female,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S5,Corporate Tie-up,9,14,39696,39696,9
+P2268,57,45-59,Female,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S4,Corporate Tie-up,0,13,41051,36682,6
+P2269,68,60-74,Female,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S5,Government Scheme,4,10,26646,18604,7
+P2270,71,60-74,Female,Acute Kidney Injury,Apex Renal Care,NephroLife,S8,Corporate Tie-up,7,13,36765,30462,9
+P2271,52,45-59,Male,Acute Kidney Injury,City Care Dialysis,Unity Health,S6,Insurance,1,11,28790,26062,7
+P2272,50,45-59,Female,Acute Kidney Injury,Riverside Renal Unit,Unity Health,S3,Corporate Tie-up,7,11,28337,24456,5
+P2273,34,30-44,Female,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S1,Corporate Tie-up,3,11,25419,22083,5
+P2274,39,30-44,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S6,Cash,6,8,29641,27552,10
+P2275,81,75+,Female,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S3,Government Scheme,1,15,50455,35561,10
+P2276,39,30-44,Female,Polycystic Kidney Disease,Lotus Dialysis Centre,NephroLife,S5,Card,8,15,38181,38181,7
+P2277,73,60-74,Male,Chronic Glomerulonephritis,Lotus Dialysis Centre,NephroLife,S5,Government Scheme,6,14,35868,27492,7
+P2278,41,30-44,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S1,Cash,8,12,32631,32631,8
+P2279,65,60-74,Female,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S6,Insurance,3,12,25576,25576,6
+P2280,36,30-44,Male,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S5,Cash,1,16,38354,36855,7
+P2281,54,45-59,Female,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S6,Insurance,2,12,43131,33341,10
+P2282,45,45-59,Male,Acute Kidney Injury,Riverside Renal Unit,Unity Health,S3,Cash,1,15,33997,33997,5
+P2283,78,75+,Male,Polycystic Kidney Disease,Metro Renal Hub,CarePlus Network,S7,Cash,3,14,47304,45141,10
+P2284,64,60-74,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S6,Card,9,13,43842,43842,8
+P2285,79,75+,Male,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S3,Cash,8,15,50264,50264,10
+P2286,41,30-44,Female,Diabetic Nephropathy,City Care Dialysis,Unity Health,S7,Insurance,11,10,24156,21483,7
+P2287,65,60-74,Male,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S2,Cash,10,9,23249,23249,5
+P2288,61,60-74,Female,Diabetic Nephropathy,Apex Renal Care,NephroLife,S1,Insurance,1,14,41812,38067,9
+P2289,56,45-59,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S7,Cash,2,14,40108,40108,9
+P2290,44,30-44,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S9,Government Scheme,4,6,16599,11971,9
+P2291,73,60-74,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S6,Government Scheme,4,13,32423,24542,7
+P2292,63,60-74,Female,Polycystic Kidney Disease,Apex Renal Care,NephroLife,S7,Corporate Tie-up,3,10,26894,24617,9
+P2293,57,45-59,Female,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S6,Cash,5,9,21624,21624,7
+P2294,49,45-59,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S2,Government Scheme,4,7,22548,15658,8
+P2295,75,75+,Male,Polycystic Kidney Disease,Lotus Dialysis Centre,NephroLife,S1,Government Scheme,4,9,20165,15887,7
+P2296,84,75+,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S8,Government Scheme,0,11,33966,26122,8
+P2297,59,45-59,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S9,Corporate Tie-up,0,8,19131,15832,9
+P2298,82,75+,Male,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S2,Insurance,4,12,27772,27772,5
+P2299,49,45-59,Female,Chronic Glomerulonephritis,Lotus Dialysis Centre,NephroLife,S5,Government Scheme,5,10,26115,22393,7
+P2300,58,45-59,Female,Obstructive Uropathy,Riverside Renal Unit,Unity Health,S2,Insurance,0,8,18052,16420,5
+P2301,54,45-59,Female,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S2,Government Scheme,11,7,19933,12781,8
+P2302,72,60-74,Female,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S2,Government Scheme,3,15,37376,22962,5
+P2303,51,45-59,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S4,Cash,11,15,37396,37396,7
+P2304,67,60-74,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S9,Card,3,14,35080,35080,9
+P2305,58,45-59,Female,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S4,Card,1,8,17185,16817,6
+P2306,63,60-74,Female,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S10,Government Scheme,4,14,45569,37604,10
+P2307,83,75+,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S5,Government Scheme,10,11,27849,20968,7
+P2308,44,30-44,Female,Polycystic Kidney Disease,Sunrise Nephrology,CarePlus Network,S7,Cash,9,11,33844,31486,8
+P2309,84,75+,Female,Obstructive Uropathy,Green Valley Dialysis,CarePlus Network,S6,Government Scheme,1,12,32811,20140,6
+P2310,30,30-44,Male,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S2,Insurance,3,13,32746,27843,7
+P2311,43,30-44,Male,Chronic Glomerulonephritis,City Care Dialysis,Unity Health,S3,Cash,2,7,20019,18235,7
+P2312,46,45-59,Female,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S1,Corporate Tie-up,3,12,31216,31216,5
+P2313,54,45-59,Female,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S7,Insurance,10,6,13067,10964,7
+P2314,37,30-44,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S10,Insurance,10,14,44915,44915,10
+P2315,67,60-74,Male,Obstructive Uropathy,Lotus Dialysis Centre,NephroLife,S3,Cash,9,14,36678,36678,7
+P2316,64,60-74,Female,Chronic Glomerulonephritis,Sai Kidney Institute,NephroLife,S2,Insurance,5,11,26327,26327,6
+P2317,38,30-44,Male,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S1,Government Scheme,10,10,26292,18305,5
+P2318,81,75+,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S4,Card,9,15,56761,55622,10
+P2319,59,45-59,Male,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S6,Insurance,9,8,19295,17669,7
+P2320,68,60-74,Male,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S5,Cash,10,12,34608,34608,6
+P2321,48,45-59,Female,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S3,Government Scheme,0,11,33374,25092,10
+P2322,71,60-74,Male,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S5,Corporate Tie-up,8,12,28823,28823,5
+P2323,85,75+,Male,Polycystic Kidney Disease,City Care Dialysis,Unity Health,S4,Corporate Tie-up,4,14,34661,29057,7
+P2324,63,60-74,Male,Chronic Glomerulonephritis,Sunrise Nephrology,CarePlus Network,S5,Insurance,9,7,22433,18840,8
+P2325,51,45-59,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S9,Insurance,11,11,33346,28464,10
+P2326,57,45-59,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S7,Insurance,2,11,36589,32993,8
+P2327,58,45-59,Male,Acute Kidney Injury,Apex Renal Care,NephroLife,S3,Government Scheme,0,6,16505,13417,9
+P2328,58,45-59,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S1,Insurance,1,8,27456,22531,10
+P2329,42,30-44,Female,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S6,Corporate Tie-up,5,11,33488,33488,10
+P2330,81,75+,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S5,Card,1,7,16909,16909,9
+P2331,50,45-59,Female,Chronic Glomerulonephritis,Riverside Renal Unit,Unity Health,S1,Government Scheme,0,10,26145,16885,5
+P2332,52,45-59,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S8,Government Scheme,8,9,25159,15426,9
+P2333,71,60-74,Male,Chronic Glomerulonephritis,Sunrise Nephrology,CarePlus Network,S5,Insurance,4,10,31165,28497,8
+P2334,86,75+,Female,Polycystic Kidney Disease,Riverside Renal Unit,Unity Health,S1,Government Scheme,11,11,23663,17670,5
+P2335,61,60-74,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S8,Government Scheme,11,10,32135,27383,8
+P2336,74,60-74,Male,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S5,Card,7,10,20133,19036,6
+P2337,88,75+,Male,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S7,Corporate Tie-up,10,11,27371,27371,7
+P2338,42,30-44,Male,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S2,Corporate Tie-up,1,14,36442,29418,5
+P2339,61,60-74,Male,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S5,Insurance,11,11,23797,23797,6
+P2340,77,75+,Female,Obstructive Uropathy,Apex Renal Care,NephroLife,S2,Insurance,4,11,29369,26240,9
+P2341,58,45-59,Female,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S3,Government Scheme,1,10,31657,19974,8
+P2342,65,60-74,Male,Obstructive Uropathy,Sunrise Nephrology,CarePlus Network,S7,Corporate Tie-up,11,14,47251,40769,8
+P2343,47,45-59,Male,Diabetic Nephropathy,City Care Dialysis,Unity Health,S5,Insurance,9,15,42812,36880,7
+P2344,55,45-59,Male,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S5,Insurance,10,8,16408,16408,6
+P2345,39,30-44,Female,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S1,Insurance,11,10,25066,21691,6
+P2346,26,18-29,Male,Diabetic Nephropathy,City Care Dialysis,Unity Health,S3,Insurance,9,6,15793,15793,7
+P2347,68,60-74,Male,Obstructive Uropathy,City Care Dialysis,Unity Health,S4,Corporate Tie-up,2,16,39592,39592,7
+P2348,67,60-74,Female,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S5,Insurance,1,6,14115,12301,9
+P2349,43,30-44,Female,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S7,Government Scheme,9,11,35094,24325,10
+P2350,68,60-74,Male,Diabetic Nephropathy,City Care Dialysis,Unity Health,S1,Cash,2,10,25365,23449,7
+P2351,40,30-44,Male,Polycystic Kidney Disease,Green Valley Dialysis,CarePlus Network,S1,Insurance,2,15,39728,36840,6
+P2352,38,30-44,Female,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S8,Card,10,7,18980,18003,8
+P2353,70,60-74,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S4,Cash,2,9,21142,21142,9
+P2354,78,75+,Male,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S2,Corporate Tie-up,9,9,28202,23407,6
+P2355,49,45-59,Female,Diabetic Nephropathy,City Care Dialysis,Unity Health,S6,Cash,11,6,17075,16317,7
+P2356,44,30-44,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S4,Government Scheme,2,6,16364,14232,9
+P2357,46,45-59,Female,Chronic Glomerulonephritis,Lotus Dialysis Centre,NephroLife,S4,Insurance,1,12,30298,30298,7
+P2358,63,60-74,Male,Acute Kidney Injury,Metro Renal Hub,CarePlus Network,S1,Cash,9,14,47391,45368,10
+P2359,67,60-74,Female,Hypertensive Nephropathy,City Care Dialysis,Unity Health,S7,Government Scheme,7,10,25730,17643,7
+P2360,48,45-59,Female,Polycystic Kidney Disease,Metro Renal Hub,CarePlus Network,S3,Cash,4,15,50843,47543,10
+P2361,53,45-59,Male,Chronic Glomerulonephritis,City Care Dialysis,Unity Health,S7,Corporate Tie-up,3,6,14166,14166,7
+P2362,54,45-59,Female,Obstructive Uropathy,Apex Renal Care,NephroLife,S1,Insurance,5,13,36598,30342,9
+P2363,76,75+,Female,Chronic Glomerulonephritis,Green Valley Dialysis,CarePlus Network,S1,Cash,2,7,20747,20747,6
+P2364,64,60-74,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S4,Government Scheme,0,10,24661,15694,9
+P2365,65,60-74,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S6,Insurance,9,12,44896,36240,10
+P2366,38,30-44,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S4,Insurance,9,10,36989,28767,10
+P2367,75,75+,Male,Obstructive Uropathy,Apex Renal Care,NephroLife,S6,Cash,6,6,15007,13688,9
+P2368,39,30-44,Female,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S8,Card,6,11,28363,27164,9
+P2369,72,60-74,Male,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S3,Corporate Tie-up,4,7,23748,20352,10
+P2370,41,30-44,Male,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S4,Corporate Tie-up,2,14,33243,33243,6
+P2371,48,45-59,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S9,Insurance,5,9,27820,23203,10
+P2372,52,45-59,Female,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S3,Government Scheme,10,11,28376,24397,5
+P2373,36,30-44,Male,Chronic Glomerulonephritis,Green Valley Dialysis,CarePlus Network,S2,Corporate Tie-up,5,14,36109,29749,6
+P2374,64,60-74,Male,Acute Kidney Injury,Sunrise Nephrology,CarePlus Network,S2,Cash,3,16,53868,50097,8
+P2375,48,45-59,Male,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S5,Cash,11,13,30644,29673,5
+P2376,64,60-74,Female,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S10,Cash,5,13,46338,42194,10
+P2377,64,60-74,Female,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S1,Insurance,3,10,26054,22632,5
+P2378,44,30-44,Female,Diabetic Nephropathy,City Care Dialysis,Unity Health,S4,Insurance,5,6,14745,12376,7
+P2379,59,45-59,Male,Hypertensive Nephropathy,Lotus Dialysis Centre,NephroLife,S7,Insurance,4,9,21852,20245,7
+P2380,62,60-74,Female,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S6,Cash,3,15,37888,34483,9
+P2381,66,60-74,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S4,Government Scheme,1,8,26458,19904,8
+P2382,54,45-59,Male,Chronic Glomerulonephritis,Riverside Renal Unit,Unity Health,S2,Insurance,8,15,38139,38139,5
+P2383,54,45-59,Male,Acute Kidney Injury,Metro Renal Hub,CarePlus Network,S5,Government Scheme,4,13,46537,38355,10
+P2384,49,45-59,Male,Chronic Glomerulonephritis,City Care Dialysis,Unity Health,S6,Cash,11,8,21241,21241,7
+P2385,56,45-59,Female,Diabetic Nephropathy,City Care Dialysis,Unity Health,S5,Government Scheme,0,9,21309,15946,7
+P2386,48,45-59,Female,Chronic Glomerulonephritis,Riverside Renal Unit,Unity Health,S1,Government Scheme,2,6,15649,12290,5
+P2387,36,30-44,Male,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S6,Cash,1,14,43831,41397,10
+P2388,72,60-74,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S6,Government Scheme,8,8,21810,18285,8
+P2389,58,45-59,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S3,Cash,10,15,49321,46823,8
+P2390,62,60-74,Male,Acute Kidney Injury,Sunrise Nephrology,CarePlus Network,S3,Insurance,7,8,25296,21066,8
+P2391,36,30-44,Male,Polycystic Kidney Disease,Sunrise Nephrology,CarePlus Network,S8,Card,8,10,27653,27653,8
+P2392,58,45-59,Male,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S3,Insurance,2,11,23772,19911,5
+P2393,80,75+,Female,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S5,Card,10,12,41186,38778,10
+P2394,75,75+,Female,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S3,Insurance,11,9,32327,32327,10
+P2395,39,30-44,Female,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S4,Insurance,2,12,26591,24504,5
+P2396,72,60-74,Female,Chronic Glomerulonephritis,Sunrise Nephrology,CarePlus Network,S2,Cash,10,10,29828,27464,8
+P2397,78,75+,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S8,Card,4,8,23166,23166,9
+P2398,75,75+,Female,Diabetic Nephropathy,Apex Renal Care,NephroLife,S2,Government Scheme,6,14,38704,30412,9
+P2399,51,45-59,Male,Chronic Glomerulonephritis,Lotus Dialysis Centre,NephroLife,S4,Government Scheme,5,13,33203,25553,7
+P2400,71,60-74,Female,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S3,Card,6,10,23762,23218,6
+P2401,83,75+,Male,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S10,Card,11,14,43729,42544,10
+P2402,80,75+,Female,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S4,Card,11,15,43430,40989,6
+P2403,88,75+,Female,Chronic Glomerulonephritis,City Care Dialysis,Unity Health,S5,Government Scheme,11,15,35144,28459,7
+P2404,48,45-59,Male,Acute Kidney Injury,City Care Dialysis,Unity Health,S5,Insurance,11,8,19719,17289,7
+P2405,64,60-74,Female,Acute Kidney Injury,Apex Renal Care,NephroLife,S5,Cash,11,12,35462,32828,9
+P2406,33,30-44,Male,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S3,Government Scheme,11,14,43093,33328,6
+P2407,56,45-59,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S1,Insurance,11,12,33032,28712,8
+P2408,61,60-74,Male,Chronic Glomerulonephritis,Lotus Dialysis Centre,NephroLife,S4,Cash,11,14,38308,38308,7
+P2409,57,45-59,Female,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S3,Corporate Tie-up,11,7,23811,20897,10
+P2410,52,45-59,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S1,Insurance,11,6,14431,14431,9
+P2411,70,60-74,Female,Diabetic Nephropathy,City Care Dialysis,Unity Health,S3,Corporate Tie-up,11,15,39174,39174,7
+P2412,65,60-74,Female,Polycystic Kidney Disease,Sunrise Nephrology,CarePlus Network,S5,Government Scheme,11,10,28237,20265,8
+P2413,47,45-59,Female,Chronic Glomerulonephritis,Apex Renal Care,NephroLife,S3,Cash,11,6,14131,13502,9
+P2414,45,45-59,Female,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S5,Insurance,11,8,22077,19187,6
+P2415,50,45-59,Male,Acute Kidney Injury,Apex Renal Care,NephroLife,S1,Card,11,7,19752,18663,9
+P2416,46,45-59,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S2,Corporate Tie-up,11,16,42493,42493,7
+P2417,58,45-59,Female,Chronic Glomerulonephritis,Sai Kidney Institute,NephroLife,S5,Insurance,11,10,24015,24015,6
+P2418,72,60-74,Female,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S3,Government Scheme,11,11,22753,17539,6
+P2419,60,60-74,Female,Polycystic Kidney Disease,Lotus Dialysis Centre,NephroLife,S3,Government Scheme,11,10,23789,19817,7
+P2420,58,45-59,Male,Chronic Glomerulonephritis,Riverside Renal Unit,Unity Health,S1,Government Scheme,11,15,36635,25357,5
+P2421,44,30-44,Male,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S2,Government Scheme,11,7,25324,17487,10
+P2422,78,75+,Female,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S4,Insurance,11,13,40337,36662,6
+P2423,39,30-44,Male,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S3,Insurance,11,13,32403,32403,6
+P2424,68,60-74,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S6,Insurance,11,11,30419,26965,8
+P2425,55,45-59,Female,Hypertensive Nephropathy,City Care Dialysis,Unity Health,S4,Insurance,11,12,28566,26205,7
+P2426,36,30-44,Female,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S3,Cash,11,10,25209,25209,9
+P2427,81,75+,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S4,Card,11,15,46461,46461,8
+P2428,34,30-44,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S3,Insurance,11,12,35739,27496,10
+P2429,79,75+,Female,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S4,Insurance,11,15,41847,38119,9
+P2430,62,60-74,Female,Chronic Glomerulonephritis,Lotus Dialysis Centre,NephroLife,S7,Insurance,11,7,18393,16712,7
+P2431,66,60-74,Female,Obstructive Uropathy,Lotus Dialysis Centre,NephroLife,S3,Government Scheme,11,7,15927,10797,7
+P2432,69,60-74,Male,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S6,Government Scheme,11,12,25788,18581,6
+P2433,86,75+,Male,Chronic Glomerulonephritis,City Care Dialysis,Unity Health,S2,Card,11,7,18187,18187,7
+P2434,77,75+,Male,Hypertensive Nephropathy,City Care Dialysis,Unity Health,S3,Card,11,8,19997,18817,7
+P2435,45,45-59,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S4,Cash,11,13,42186,38942,8
+P2436,77,75+,Female,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S2,Cash,11,15,29793,27357,6
+P2437,81,75+,Male,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S3,Government Scheme,11,10,29828,20475,10
+P2438,47,45-59,Female,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S3,Card,11,14,29189,28311,6
+P2439,50,45-59,Female,Acute Kidney Injury,Sunrise Nephrology,CarePlus Network,S8,Government Scheme,11,15,48458,34103,8
+P2440,70,60-74,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S7,Government Scheme,11,13,42667,26978,8
+P2441,54,45-59,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S5,Insurance,11,14,43703,32986,10
+P2442,69,60-74,Female,Chronic Glomerulonephritis,Sai Kidney Institute,NephroLife,S6,Cash,11,7,14943,13968,6
+P2443,57,45-59,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S1,Insurance,11,12,26600,26600,7
+P2444,48,45-59,Female,Chronic Glomerulonephritis,Sai Kidney Institute,NephroLife,S6,Government Scheme,11,12,24042,14838,6
+P2445,84,75+,Female,Hypertensive Nephropathy,City Care Dialysis,Unity Health,S3,Insurance,11,11,30186,30186,7
+P2446,53,45-59,Female,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S9,Insurance,11,11,37285,30951,10
+P2447,58,45-59,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S4,Corporate Tie-up,11,14,41916,41916,10
+P2448,49,45-59,Female,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S6,Government Scheme,11,9,24697,21368,8
+P2449,47,45-59,Male,Acute Kidney Injury,Sai Kidney Institute,NephroLife,S1,Cash,11,12,29722,28404,6
+P2450,49,45-59,Female,Chronic Glomerulonephritis,Apex Renal Care,NephroLife,S5,Cash,11,14,37505,37505,9
+P2451,74,60-74,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S3,Government Scheme,11,8,26903,18136,8
+P2452,63,60-74,Female,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S2,Corporate Tie-up,11,10,25019,19221,9
+P2453,57,45-59,Male,Chronic Glomerulonephritis,Apex Renal Care,NephroLife,S3,Insurance,11,8,22515,22515,9
+P2454,70,60-74,Male,Diabetic Nephropathy,Green Valley Dialysis,CarePlus Network,S5,Cash,11,7,22320,21085,6
+P2455,56,45-59,Female,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S3,Card,11,14,32255,31301,7
+P2456,57,45-59,Female,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S5,Insurance,11,16,48450,37505,10
+P2457,66,60-74,Female,Diabetic Nephropathy,Apex Renal Care,NephroLife,S5,Government Scheme,11,16,40039,27168,9
+P2458,63,60-74,Male,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S5,Insurance,11,14,32031,32031,5
+P2459,55,45-59,Male,Hypertensive Nephropathy,Riverside Renal Unit,Unity Health,S5,Government Scheme,11,15,38577,25526,5
+P2460,80,75+,Male,Obstructive Uropathy,Lotus Dialysis Centre,NephroLife,S5,Insurance,11,9,20751,18875,7
+P2461,66,60-74,Male,Chronic Glomerulonephritis,Apex Renal Care,NephroLife,S1,Insurance,11,12,33780,28143,9
+P2462,41,30-44,Male,Chronic Glomerulonephritis,Sunrise Nephrology,CarePlus Network,S8,Cash,11,15,41154,37843,8
+P2463,52,45-59,Female,Chronic Glomerulonephritis,Sunrise Nephrology,CarePlus Network,S3,Government Scheme,11,11,32424,20131,8
+P2464,80,75+,Male,Chronic Glomerulonephritis,Sai Kidney Institute,NephroLife,S2,Card,11,16,36249,34144,6
+P2465,64,60-74,Male,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S2,Government Scheme,11,8,24996,19071,10
+P2466,55,45-59,Female,Chronic Glomerulonephritis,Metro Renal Hub,CarePlus Network,S1,Card,11,15,49436,46943,10
+P2467,48,45-59,Female,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S4,Card,11,7,19856,19856,8
+P2468,72,60-74,Female,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S6,Government Scheme,11,16,36067,25246,6
+P2469,66,60-74,Female,Chronic Glomerulonephritis,Lotus Dialysis Centre,NephroLife,S4,Insurance,11,6,14394,14394,7
+P2470,73,60-74,Male,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S3,Government Scheme,11,16,42080,33362,6
+P2471,88,75+,Female,Chronic Glomerulonephritis,Riverside Renal Unit,Unity Health,S1,Insurance,11,7,15847,13968,5
+P2472,70,60-74,Female,Diabetic Nephropathy,Riverside Renal Unit,Unity Health,S1,Government Scheme,11,16,37886,24222,5
+P2473,59,45-59,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S1,Insurance,11,8,26477,26477,8
+P2474,58,45-59,Male,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S6,Cash,11,12,26466,26466,7
+P2475,62,60-74,Female,Diabetic Nephropathy,Apex Renal Care,NephroLife,S5,Government Scheme,11,15,38709,23724,9
+P2476,56,45-59,Female,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S2,Government Scheme,11,11,33680,25536,10
+P2477,84,75+,Male,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S5,Card,11,13,37004,36074,9
+P2478,54,45-59,Male,Diabetic Nephropathy,City Care Dialysis,Unity Health,S3,Card,11,7,16036,16036,7
+P2479,80,75+,Female,Hypertensive Nephropathy,Apex Renal Care,NephroLife,S8,Cash,11,9,26518,26518,9
+P2480,64,60-74,Male,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S3,Government Scheme,11,11,23978,18587,6
+P2481,63,60-74,Female,Hypertensive Nephropathy,City Care Dialysis,Unity Health,S1,Insurance,11,10,26803,23262,7
+P2482,59,45-59,Male,Obstructive Uropathy,Lotus Dialysis Centre,NephroLife,S4,Government Scheme,11,14,35032,29508,7
+P2483,56,45-59,Female,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S9,Card,11,7,23897,23268,10
+P2484,66,60-74,Male,Polycystic Kidney Disease,Metro Renal Hub,CarePlus Network,S6,Government Scheme,11,12,37872,31745,10
+P2485,67,60-74,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S4,Insurance,11,16,45508,38567,8
+P2486,50,45-59,Female,Hypertensive Nephropathy,Green Valley Dialysis,CarePlus Network,S5,Corporate Tie-up,11,14,43115,43115,6
+P2487,52,45-59,Male,Obstructive Uropathy,Metro Renal Hub,CarePlus Network,S5,Government Scheme,11,7,23635,15427,10
+P2488,75,75+,Female,Acute Kidney Injury,Sunrise Nephrology,CarePlus Network,S3,Corporate Tie-up,11,15,49052,38234,8
+P2489,36,30-44,Male,Hypertensive Nephropathy,Sai Kidney Institute,NephroLife,S2,Insurance,11,10,24852,24852,6
+P2490,73,60-74,Male,Hypertensive Nephropathy,Metro Renal Hub,CarePlus Network,S6,Insurance,11,10,35333,30162,10
+P2491,37,30-44,Female,Hypertensive Nephropathy,City Care Dialysis,Unity Health,S1,Card,11,7,16828,16828,7
+P2492,88,75+,Male,Obstructive Uropathy,Apex Renal Care,NephroLife,S9,Cash,11,9,24005,24005,9
+P2493,52,45-59,Male,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S6,Insurance,11,8,24739,22284,8
+P2494,67,60-74,Male,Diabetic Nephropathy,Apex Renal Care,NephroLife,S5,Insurance,11,10,24099,22539,9
+P2495,31,30-44,Male,Polycystic Kidney Disease,Apex Renal Care,NephroLife,S4,Government Scheme,11,14,37010,24545,9
+P2496,44,30-44,Female,Diabetic Nephropathy,Lotus Dialysis Centre,NephroLife,S1,Government Scheme,11,6,16442,14085,7
+P2497,84,75+,Male,Diabetic Nephropathy,Metro Renal Hub,CarePlus Network,S2,Government Scheme,11,14,47456,35246,10
+P2498,49,45-59,Female,Diabetic Nephropathy,Sunrise Nephrology,CarePlus Network,S7,Cash,11,11,34280,34280,8
+P2499,53,45-59,Female,Acute Kidney Injury,Lotus Dialysis Centre,NephroLife,S1,Card,11,11,29843,28068,7
+P2500,43,30-44,Male,Polycystic Kidney Disease,Lotus Dialysis Centre,NephroLife,S7,Government Scheme,11,9,20121,12584,7
+P2501,63,60-74,Male,Diabetic Nephropathy,City Care Dialysis,Unity Health,S7,Government Scheme,11,7,18099,14215,7
+P2502,56,45-59,Male,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S3,Government Scheme,11,8,22729,14182,8
+P2503,74,60-74,Female,Diabetic Nephropathy,Apex Renal Care,NephroLife,S2,Government Scheme,11,12,31418,19942,9
+P2504,60,60-74,Female,Hypertensive Nephropathy,Sunrise Nephrology,CarePlus Network,S2,Card,11,10,27055,26141,8
+P2505,74,60-74,Female,Acute Kidney Injury,Lotus Dialysis Centre,NephroLife,S3,Cash,11,7,16136,14951,7
+P2506,65,60-74,Male,Diabetic Nephropathy,Sai Kidney Institute,NephroLife,S3,Government Scheme,11,16,35490,30400,6

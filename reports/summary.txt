@@ -1,0 +1,69 @@
+
+=== Dataset overview ===
+          age      mo    sess   billed     paid  stations  discount  discount_pct
+count  1400.0  1400.0  1400.0   1400.0   1400.0    1400.0    1400.0        1400.0
+mean     58.0     5.4    11.0  30894.7  27228.7       7.7    3666.0          11.8
+std      14.3     3.4     3.0   9564.1   9069.8       1.6    3694.7          10.8
+min      18.0     0.0     6.0  12169.0   7980.0       5.0       0.0           0.0
+25%      48.0     2.0     8.0  23183.5  20144.5       6.0       0.0           0.0
+50%      58.0     5.0    11.0  30376.0  26314.0       8.0    2631.0           9.4
+75%      68.0     8.0    14.0  37810.2  33378.0       9.0    5928.2          18.4
+max      88.0    11.0    16.0  59294.0  56026.0      10.0   19376.0          39.0
+
+=== Patients by disease ===
+dis
+Diabetic Nephropathy          487
+Hypertensive Nephropathy      382
+Chronic Glomerulonephritis    202
+Polycystic Kidney Disease     114
+Acute Kidney Injury           113
+Obstructive Uropathy          102
+
+=== Age group x gender ===
+g      Female  Male
+ag                 
+18-29      12    19
+30-44      94   134
+45-59     222   289
+60-74     183   248
+75+        83   116
+
+=== Chain summary ===
+                  patients    billed  collected  discount_pct
+chain                                                        
+CarePlus Network       634  22225188   19497154          12.4
+NephroLife             514  14134185   12561890          11.0
+Unity Health           252   6893169    6061138          12.0
+
+=== Facility and station utilisation ===
+                                  chain  patients  stations  sessions    billed  discount_pct  sessions_per_station
+fac                                                                                                                
+Sunrise Nephrology     CarePlus Network       220         8      2440   7491056          12.6                 305.0
+Metro Renal Hub        CarePlus Network       268        10      2949  10033075          12.4                 295.0
+Green Valley Dialysis  CarePlus Network       146         6      1629   4701057          12.1                 272.0
+Apex Renal Care              NephroLife       220         9      2390   6353896          11.0                 266.0
+Lotus Dialysis Centre        NephroLife       168         7      1843   4593827          12.4                 263.0
+Riverside Renal Unit       Unity Health       114         5      1282   3010866          12.4                 256.0
+Sai Kidney Institute         NephroLife       126         6      1408   3186462           9.1                 235.0
+City Care Dialysis         Unity Health       138         7      1523   3882303          11.7                 218.0
+
+=== Payment mode: share and discounts ===
+                   records  avg_discount_pct  total_discount
+pm                                                          
+Card                   194               2.6          153322
+Cash                   221               3.7          249320
+Corporate Tie-up       162               9.5          468473
+Government Scheme      370              25.4         2902538
+Insurance              453               9.4         1358707
+
+=== Discount % by facility x payment mode ===
+pm                     Card  Cash  Corporate Tie-up  Government Scheme  Insurance
+fac                                                                              
+Apex Renal Care         2.5   4.3               8.9               26.5        7.1
+City Care Dialysis      3.2   4.1               8.5               24.9        8.2
+Green Valley Dialysis   2.9   3.4              10.7               26.0        9.7
+Lotus Dialysis Centre   2.4   2.9               9.6               25.3        7.8
+Metro Renal Hub         2.6   3.5               9.9               24.3       13.6
+Riverside Renal Unit    2.3   3.5              12.0               23.8       10.1
+Sai Kidney Institute    2.7   3.1               7.9               25.3        6.7
+Sunrise Nephrology      2.3   3.9               8.7               26.6        9.8
