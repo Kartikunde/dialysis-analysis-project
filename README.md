@@ -5,6 +5,7 @@
 > All data in this repository is **synthetic**. It contains no real patient information.
 
 ---
+<img width="1611" height="877" alt="Screenshot 2026-11-11 130402" src="https://github.com/user-attachments/assets/ad0df95b-3b04-4af6-9005-8fcd667f2f51" />
 
 ## Features
 
@@ -70,7 +71,7 @@ dialysis-analysis-project/
 | `paid` | Amount actually collected after discounts or reductions (₹) |
 | `stations` | Number of stations at the facility |
 
-The discount for a record is `billed - paid`, and the discount rate is `(billed - paid) / billed`.
+<img width="1605" height="833" alt="Screenshot 2026-11-11 130418" src="https://github.com/user-attachments/assets/daca77be-12a6-45d3-b3e3-815b5c4b3610" />
 
 ## Analysis covered
 
