@@ -44,34 +44,6 @@ dialysis-analysis-project/
 └── README.md
 ```
 
-## Getting started
-
-**Requirements:** Python 3.8+ and a browser with internet access (for the Chart.js CDN).
-
-```bash
-git clone https://github.com/Kartikunde/dialysis-analysis-project.git
-cd dialysis-analysis-project
-python server.py
-```
-
-Open **http://localhost:8000**. The header shows a live status such as "Live: 1,420 records · updated 10:42:15".
-
-**Options** (environment variables):
-
-```bash
-PORT=9000 INTERVAL=1 python server.py     # custom port, one new record per second
-```
-
-On Windows PowerShell: `$env:PORT=9000; $env:INTERVAL=1; python server.py`
-
-### Run the offline analysis
-
-```bash
-pip install pandas
-python analysis.py
-```
-
-This prints the tables and saves them to `reports/summary.txt`: dataset overview, patients by disease, age group by gender, chain summary, facility and station utilisation, payment mode discounts, and a facility by payment mode discount matrix.
 
 ### Rebuild the dataset
 
